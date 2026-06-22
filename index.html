@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Name Game V4 - Wikipedia Validation</title>
+<style>
+  :root{
+    --bg:#050b14; --panel:#0b1422; --panel2:#101d2f; --line:#23334a;
+    --text:#f4f7fb; --muted:#98a7bd; --green:#53e342; --purple:#a05bff;
+    --orange:#ff9f16; --blue:#3998ff; --red:#ff4138; --yellow:#ffd21f;
+    --shadow:0 0 24px rgba(57,152,255,.20); --soft:rgba(255,255,255,.06);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', system-ui, sans-serif;background:radial-gradient(circle at top left,#10223c 0,#050b14 38%,#02050a 100%);color:var(--text);min-height:100vh;letter-spacing:.35px;overflow-x:hidden}
+  button,input,select,textarea{font-family:Arial,sans-serif}
+  button{cursor:pointer}
+  .app{max-width:1540px;margin:0 auto;padding:18px}
+  .top{display:grid;grid-template-columns:270px 1fr 390px 210px;gap:18px;align-items:stretch;margin-bottom:18px}
+  .logo h1{margin:0;font-size:68px;line-height:.82;color:white;text-shadow:0 3px 0 #000,0 0 16px rgba(255,255,255,.18)}
+  .logo h1 span{color:var(--yellow);display:block}.logo .cat{font-size:22px;margin-top:14px;color:white;font-family:Arial,sans-serif;font-weight:900}
+  .card{background:linear-gradient(180deg,rgba(20,34,56,.96),rgba(6,12,22,.96));border:2px solid var(--line);border-radius:12px;box-shadow:var(--shadow)}
+  .stats{display:grid;grid-template-columns:1fr 1fr 1fr;text-align:center;overflow:hidden}.stat{padding:18px;border-right:1px solid var(--line)}.stat:last-child{border-right:0}.label{font-family:Arial,sans-serif;color:var(--muted);font-weight:900;font-size:15px;letter-spacing:1.2px}.big{font-size:42px;margin-top:8px}.timerCircle{width:96px;height:96px;border-radius:50%;margin:0 auto;border:10px solid #17321f;border-top-color:var(--green);display:flex;align-items:center;justify-content:center;font-size:42px;color:var(--green);box-shadow:0 0 20px rgba(83,227,66,.25)}.timerCircle.danger{color:var(--red);border-top-color:var(--red);animation:pulseRed .55s infinite alternate}
+  @keyframes pulseRed{from{box-shadow:0 0 8px rgba(255,65,56,.3)}to{box-shadow:0 0 28px rgba(255,65,56,.85)}}
+  .rules{padding:20px 22px}.rules h2{margin:0 0 14px;color:var(--yellow);font-size:24px;text-align:center}.ruleLine{font-family:Arial,sans-serif;font-size:17px;font-weight:900;margin:10px 0;display:flex;gap:12px;align-items:center}.ico{width:30px;height:30px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:19px;font-weight:900;background:var(--purple);box-shadow:0 0 12px currentColor}.ico.red{background:var(--red)}
+  .actions{display:grid;grid-template-columns:1fr 1fr;gap:14px}.actions button{height:88px;background:#101a2a;color:white;border:2px solid var(--line);border-radius:10px;font-size:16px;font-weight:900}.actions button:hover{border-color:var(--blue)}
+  .turnHero{margin-bottom:18px;padding:18px;display:grid;grid-template-columns:1fr 180px;gap:18px;align-items:center;position:relative;overflow:hidden}.turnHero:before{content:"";position:absolute;inset:-50%;background:radial-gradient(circle,rgba(83,227,66,.09),transparent 35%);pointer-events:none}.turnName{font-size:56px;line-height:.95;color:var(--yellow);text-shadow:0 3px 0 #000}.turnNeed{font-family:Arial,sans-serif;font-weight:1000;font-size:25px;margin-top:10px}.turnNeed b{font-family:Impact;font-size:62px;color:var(--green);vertical-align:middle}.heroTimer{height:150px;width:150px;border-radius:50%;border:12px solid rgba(83,227,66,.25);display:flex;align-items:center;justify-content:center;font-size:66px;color:var(--green);margin-left:auto}.heroTimer.danger{border-color:rgba(255,65,56,.5);color:var(--red);animation:pulseRed .55s infinite alternate}.heroSub{font-family:Arial,sans-serif;color:var(--muted);font-weight:900;margin-top:8px}
+  .main{display:grid;grid-template-columns:360px 1fr;gap:20px}.sidebar{display:flex;flex-direction:column;gap:18px}.panelTitle{font-family:Arial,sans-serif;color:var(--muted);font-weight:900;font-size:18px;display:grid;grid-template-columns:1fr 120px;padding:14px 18px;border-bottom:1px solid var(--line)}
+  .playerList{padding:0 0 10px}.player{display:grid;grid-template-columns:46px 52px 1fr 86px;align-items:center;gap:12px;padding:12px 14px;margin:10px 12px;border:2px solid var(--line);border-radius:9px;background:rgba(10,20,34,.8);font-family:Arial,sans-serif;font-weight:900}.player.active{border-color:var(--green);box-shadow:0 0 18px rgba(83,227,66,.4);background:linear-gradient(90deg,rgba(27,75,30,.65),rgba(9,17,28,.9))}.player.out{opacity:.38}.num{height:38px;width:38px;border-radius:8px;display:flex;align-items:center;justify-content:center;background:#13233a;border:1px solid rgba(255,255,255,.12);font-size:20px}.avatar{height:48px;width:48px;border-radius:50%;background:linear-gradient(135deg,#2f95ff,#9f5bff);display:flex;align-items:center;justify-content:center;font-size:22px;border:2px solid rgba(255,255,255,.22)}.pname{font-size:22px}.strikeDots{display:flex;gap:6px}.dot{height:17px;width:17px;border-radius:5px;border:2px solid #718094}.dot.hit{background:var(--red);border-color:var(--red);box-shadow:0 0 10px rgba(255,65,56,.7)}
+  .directionBox{padding:30px;text-align:center;min-height:245px}.directionBox .arrow{font-size:66px;color:var(--green);transition:transform .35s}.directionBox.flip .arrow{animation:flipArrow .45s ease}@keyframes flipArrow{50%{transform:scale(1.5) rotate(180deg)}}.directionBox h2{font-size:34px;color:var(--green);margin:8px 0}.mode{font-family:Arial,sans-serif;font-weight:1000;color:var(--green);font-size:22px;margin-top:28px}.mode.battle{color:var(--red)}
+  .setup{padding:18px}.setup h3{margin:0 0 12px;color:var(--yellow);font-size:24px}.setup label{font-family:Arial,sans-serif;font-weight:900;color:var(--muted);display:block;margin:10px 0 6px}.setup input,.setup select,.setup textarea{width:100%;padding:11px;border-radius:8px;border:1px solid var(--line);background:#06101d;color:white;font-size:15px}.grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}.primary{background:linear-gradient(180deg,#35dd44,#1e8c2a)!important;color:#041009!important;border:0!important;border-radius:9px;padding:12px 16px;font-weight:1000}.smallBtn{background:#13233a;color:white;border:1px solid var(--line);border-radius:8px;font-weight:900}.danger{background:#3a1212!important;color:white!important;border:1px solid #782020!important}.namesBox{height:160px}
+  .chainCard{padding:15px}.chainTitle{font-family:Arial,sans-serif;color:var(--muted);font-weight:900;margin-bottom:10px}.chain{font-family:Arial,sans-serif;font-weight:900;line-height:1.9;max-height:118px;overflow:auto}.chain span{display:inline-block;background:rgba(255,255,255,.07);border:1px solid var(--line);padding:4px 8px;border-radius:7px;margin:2px}.chain .dbl{border-color:var(--purple);color:#d9c2ff;box-shadow:0 0 10px rgba(160,91,255,.2)}
+  .game{overflow:hidden}.tableHeader,.logRow{display:grid;grid-template-columns:78px 140px 1.3fr 1.2fr 140px 90px;align-items:center}.tableHeader{font-family:Arial,sans-serif;color:var(--muted);font-weight:900;font-size:16px;padding:14px 18px;border-bottom:1px solid var(--line);letter-spacing:1.1px}.log{padding:0 10px 12px;max-height:520px;overflow:auto}.logRow{min-height:82px;border-bottom:1px solid rgba(79,102,137,.42);font-family:Arial,sans-serif;font-weight:900}.logRow.current{background:rgba(255,159,22,.08);border:2px solid rgba(255,159,22,.35);border-radius:8px;margin-top:10px}.turnNum{font-size:28px;text-align:center;color:var(--green)}.turnPlayer{display:flex;align-items:center;gap:12px;font-size:20px}.celebrity{font-size:27px}.celebrity .firstLetter,.celebrity .lastLetter{color:var(--green)}.req{font-size:26px;color:var(--green);text-align:center}.req small{display:block;font-size:13px;color:white;font-weight:700}.result{font-size:18px}.result .reverse{color:var(--purple)}.result .normal{color:var(--green)}.result .bad{color:var(--red)}.timeCell{font-size:28px;text-align:center}.timeCell.red{color:var(--red)}.banner{margin:10px 0;padding:14px 18px;border-radius:8px;font-family:Arial,sans-serif;font-weight:1000;text-align:center;font-size:20px}.banner.red{color:var(--red);background:rgba(255,65,56,.12);border:1px solid rgba(255,65,56,.45)}.banner.green{color:var(--green);background:rgba(83,227,66,.12);border:1px solid rgba(83,227,66,.45)}.banner.purple{color:#d9c2ff;background:rgba(160,91,255,.13);border:1px solid rgba(160,91,255,.45)}
+  .inputArea{display:grid;grid-template-columns:1fr 130px 115px 115px 115px;gap:10px;margin:12px 10px 16px;padding:14px;background:rgba(0,0,0,.22);border-top:1px solid var(--line)}.inputArea input{padding:14px;border-radius:8px;border:1px solid var(--line);background:#06101d;color:white;font-size:18px}.inputArea button{border-radius:8px;border:0;font-weight:1000;font-size:15px}.pass{background:#27344a;color:white}.miss{background:var(--red);color:white}.challenge{background:var(--yellow);color:#171000}.footerNote{font-family:Arial,sans-serif;color:var(--muted);padding:0 16px 18px;font-size:13px;line-height:1.35}
+  .hidden{display:none!important}.modal{position:fixed;inset:0;background:rgba(0,0,0,.74);display:flex;align-items:center;justify-content:center;z-index:10}.modalBox{width:min(760px,92vw);padding:24px}.modalBox h2{margin-top:0;color:var(--yellow);font-size:36px}.modalBox p,.modalBox li{font-family:Arial,sans-serif;font-size:18px;line-height:1.45}.toast{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;pointer-events:none;z-index:20}.toastInner{font-size:70px;text-align:center;padding:28px 45px;border-radius:18px;border:3px solid var(--purple);background:rgba(5,11,20,.92);box-shadow:0 0 60px rgba(160,91,255,.45);animation:toastPop 1.5s ease forwards}.toastInner.red{border-color:var(--red);box-shadow:0 0 60px rgba(255,65,56,.45)}.toastSmall{display:block;font-family:Arial,sans-serif;font-size:22px;color:white;margin-top:8px}@keyframes toastPop{0%{transform:scale(.65);opacity:0}15%{transform:scale(1.05);opacity:1}80%{opacity:1}100%{transform:scale(.98);opacity:0}}
+  .statsList{font-family:Arial,sans-serif;font-weight:900;display:grid;gap:10px}.statsLine{display:flex;justify-content:space-between;background:rgba(255,255,255,.06);border:1px solid var(--line);padding:10px;border-radius:8px}.selectCustom{margin-top:8px}
+
+  .validationCard{padding:15px}
+  .validationTitle{font-family:Arial,sans-serif;color:var(--muted);font-weight:900;margin-bottom:10px}
+  .validationStatus{font-family:Arial,sans-serif;font-weight:900;line-height:1.45;background:rgba(255,255,255,.06);border:1px solid var(--line);border-radius:9px;padding:12px;min-height:82px}
+  .validationStatus.checking{border-color:var(--yellow);color:var(--yellow)}
+  .validationStatus.valid{border-color:var(--green);color:var(--green)}
+  .validationStatus.invalid{border-color:var(--red);color:var(--red)}
+  .validationStatus small{display:block;color:white;margin-top:6px;font-weight:700}
+  .validationStatus a{color:var(--yellow);text-decoration:none}
+  .submitDisabled{opacity:.55;pointer-events:none}
+
+  @media(max-width:1100px){.top,.main,.turnHero{grid-template-columns:1fr}.heroTimer{margin:0 auto}.actions{grid-template-columns:1fr 1fr}.tableHeader{display:none}.log{max-height:none}.logRow{grid-template-columns:1fr;gap:8px;padding:16px}.inputArea{grid-template-columns:1fr}.logo h1{font-size:54px}.turnName{font-size:44px}.turnNeed b{font-size:48px}.main{gap:14px}.sidebar{order:2}.game{order:1}.top{gap:12px}.app{padding:12px}}
+
+.startScreen{position:fixed;inset:0;background:radial-gradient(circle at top left,#10223c 0,#050b14 50%,#02050a 100%);display:flex;align-items:center;justify-content:center;z-index:100}
+.startCard{width:min(700px,92vw);padding:24px}
+.startCard h1{font-size:72px;margin:0;text-align:center}
+.startGrid{display:grid;gap:12px;margin-top:18px}
+.playerInputs input,.startCard select{width:100%;padding:12px;background:#06101d;color:white;border:1px solid #23334a;border-radius:8px}
+
+</style>
+</head>
+<body>
+
+<div class="startScreen" id="startScreen">
+  <div class="card startCard">
+    <h1>NAME GAME</h1>
+    <div class="startGrid">
+      <label>Category</label>
+      <select id="startCategory">
+        <option>Any Famous Person</option>
+        <option>Actors / Actresses</option>
+        <option>Athletes</option>
+        <option>Musicians</option>
+        <option>Fictional Characters</option>
+      </select>
+      <label>Human Players</label>
+      <select id="playerCountSelect">
+        <option>1</option><option>2</option><option>3</option><option selected>4</option>
+        <option>5</option><option>6</option><option>7</option><option>8</option>
+      </select>
+      <label>AI Players</label>
+      <select id="aiCountSelect">
+        <option selected>0</option><option>1</option><option>2</option><option>3</option>
+        <option>4</option><option>5</option><option>6</option>
+      </select>
+      <div class="playerInputs" id="playerInputs"></div>
+      <button class="primary" id="launchGameBtn">START GAME</button>
+    </div>
+  </div>
+</div>
+
+<div class="app">
+  <div class="top">
+    <div class="logo"><h1>NAME<span>GAME</span></h1><div class="cat" id="categoryLabel">Any Famous Person</div></div>
+    <div class="card stats">
+      <div class="stat"><div class="label">PLAYERS</div><div class="big" id="aliveCount">0 / 0</div></div>
+      <div class="stat"><div class="label">GAME MODE</div><div class="big" id="modeLabel">3 STRIKES</div></div>
+      <div class="stat"><div class="label">TURN TIMER</div><div class="timerCircle" id="timerCircle">45</div><div class="label">SEC</div></div>
+    </div>
+    <div class="card rules"><h2>SPECIAL RULES</h2><div class="ruleLine"><span class="ico">↺</span> Double Letter = Reverse</div><div class="ruleLine"><span class="ico red">30</span> Reverse Battle = 30 Seconds</div></div>
+    <div class="actions"><button id="settingsBtn">⚙<br>SETTINGS</button><button id="newBtn">↪<br>NEW GAME</button></div>
+  </div>
+
+  <div class="card turnHero">
+    <div><div class="label">CURRENT TURN</div><div class="turnName" id="heroPlayer">START GAME</div><div class="turnNeed" id="heroNeed">Needs <b>ANY</b></div><div class="heroSub" id="heroSub">Enter any valid first and last name to begin.</div></div>
+    <div class="heroTimer" id="heroTimer">45</div>
+  </div>
+
+  <div class="main">
+    <div class="sidebar">
+      <div class="card playerList"><div class="panelTitle"><span>PLAYERS</span><span>STRIKES</span></div><div id="players"></div></div>
+      <div class="card directionBox" id="directionBox"><div class="label">TABLE DIRECTION</div><div class="arrow" id="dirArrow">→</div><h2 id="dirText">CLOCKWISE</h2><div class="mode" id="battleText">NORMAL PLAY</div></div>
+      <div class="card chainCard"><div class="chainTitle">CURRENT CHAIN</div><div class="chain" id="chainView">No names yet.</div></div>
+      
+      <div class="card setup" id="setupBox"><h3>SETUP</h3><label>Category Preset</label><select id="categoryPreset"><option>Any Famous Person</option><option>Actors / Actresses</option><option>Athletes</option><option>Musicians</option><option>Fictional Characters</option><option>Politicians / Historical Figures</option><option>Custom</option></select><input class="selectCustom hidden" id="categoryInput" value="Any Famous Person"><label>Players, one per line</label><textarea id="namesInput" class="namesBox">Bob
+Chris
+Jen
+Mike
+Sarah</textarea><div class="grid2"><div><label>Strikes Out</label><select id="strikeLimit"><option>1</option><option>2</option><option selected>3</option></select></div><div><label>Normal Time</label><select id="normalTime"><option>30</option><option selected>45</option><option>60</option><option>90</option></select></div></div><label><input type="checkbox" id="autoValidate" checked> Auto Validate With Wikipedia</label><button class="primary" style="width:100%;margin-top:16px" id="startBtn">START GAME</button></div>
+    </div>
+
+    <div class="card game">
+      <div class="tableHeader"><span>TURN</span><span>PLAYER</span><span>NAME</span><span>VALIDATION</span><span>RESULT</span><span>TIMER</span></div>
+      <div class="log" id="log"></div>
+      <div class="inputArea">
+        <input id="answerInput" placeholder="Enter a famous person or character..." autocomplete="off" />
+        <button class="primary" id="submitBtn">SUBMIT</button>
+        <button class="challenge" id="challengeBtn">CHALLENGE</button>
+        <button class="pass" id="skipBtn">STRIKE</button>
+        <button class="miss" id="pauseBtn">PAUSE</button>
+      </div>
+      <div class="footerNote">The game checks name format, required starting letter, repeats, direction, strikes, elimination, and Reverse Battle timing. Category validity can be checked automatically with Wikipedia. The Challenge button remains available for player disputes.</div>
+    </div>
+  </div>
+</div>
+
+<div class="modal hidden" id="challengeModal"><div class="card modalBox"><h2>Challenge</h2><p>Pause the timer while players decide whether the last answer was valid.</p><p id="challengeName"></p><button class="primary" id="acceptChallenge">ACCEPT NAME</button><button class="smallBtn danger" style="padding:12px 16px;margin-left:8px" id="rejectChallenge">REJECT NAME</button><button class="smallBtn" style="padding:12px 16px;margin-left:8px" id="cancelChallenge">CANCEL</button></div></div>
+<div class="modal hidden" id="winnerModal"><div class="card modalBox"><h2 id="winnerTitle">Winner!</h2><p id="winnerMsg"></p><div class="statsList" id="endStats"></div><br><button class="primary" id="closeWinner">KEEP VIEWING</button><button class="smallBtn" style="padding:12px 16px;margin-left:8px" id="winnerNew">NEW GAME</button></div></div>
+<div class="toast hidden" id="toast"><div class="toastInner" id="toastInner">REVERSE<span class="toastSmall" id="toastSmall">Direction changed</span></div></div>
+
+
+<audio id="sfxNameSubmitted" preload="auto">
+  <source src="namesubmitted.mp3" type="audio/mpeg">
+</audio>
+<audio id="sfxReverse" preload="auto">
+  <source src="reverse.mp3" type="audio/mpeg">
+</audio>
+<audio id="sfxYourTurn" preload="auto">
+  <source src="yourturn.mp3" type="audio/mpeg">
+</audio>
+
+<script>
+let players=[], current=0, direction=1, requiredLetter=null, requiredSource='Start', used=new Set(), log=[], chain=[], turn=1;
+let strikesOut=3, normalSecs=45, battleSecs=30, seconds=45, timer=null, paused=false;
+let previousWasDouble=false, reverseBattle=false, lastLogIndex=null, lastDirection=1;
+let stats={reverses:{},names:{},longestBattle:0,currentBattle:0,fastest:null};
+const $=id=>document.getElementById(id);
+const colors=['#53e342','#a05bff','#ff9f16','#3998ff','#ffd21f','#ff4138','#38e6ff','#ff5bd6'];
+function playSfx(id){
+ const a=document.getElementById(id);
+ if(!a) return;
+ a.currentTime=0;
+ a.play().catch(()=>{});
+}
+
+
+const aiNames=["Adam Sandler", "Adele Adkins", "Al Pacino", "Albert Einstein", "Alexander Hamilton", "Alice Cooper", "Amy Adams", "Angela Bassett", "Anne Hathaway", "Ariana Grande", "Arnold Schwarzenegger", "Audrey Hepburn", "Barack Obama", "Barry Bonds", "Barry Manilow", "Benedict Cumberbatch", "Ben Affleck", "Beyonce Knowles", "Bill Murray", "Bill Nye", "Bill Russell", "Billy Joel", "Bob Dylan", "Brad Pitt", "Bruce Lee", "Bruce Springsteen", "Bruce Willis", "Bugs Bunny", "Calvin Harris", "Cam Newton", "Cardi B", "Carrie Fisher", "Celine Dion", "Chadwick Boseman", "Charles Barkley", "Charlie Chaplin", "Chris Evans", "Chris Hemsworth", "Christian Bale", "Christopher Walken", "Clint Eastwood", "Cristiano Ronaldo", "Dak Prescott", "Daniel Craig", "Daniel Radcliffe", "Dave Chappelle", "David Beckham", "David Bowie", "Denzel Washington", "Derek Jeter", "Diana Ross", "Dolly Parton", "Donald Duck", "Drake Graham", "Drew Barrymore", "Dwayne Johnson", "Ed Sheeran", "Eddie Murphy", "Elon Musk", "Elton John", "Elvis Presley", "Emma Stone", "Emma Watson", "Eminem Mathers", "Eva Mendes", "Evangeline Lilly", "Freddie Mercury", "Frank Sinatra", "Frida Kahlo", "Floyd Mayweather", "Forest Whitaker", "Fiona Apple", "Gal Gadot", "George Clooney", "George Lucas", "George Washington", "Gordon Ramsay", "Grace Kelly", "Greta Gerwig", "Gwen Stefani", "Halle Berry", "Harry Potter", "Harry Styles", "Harrison Ford", "Heath Ledger", "Hedy Lamarr", "Helen Mirren", "Henry Cavill", "Hillary Clinton", "Hugh Jackman", "Idris Elba", "Ice Cube", "Isaac Newton", "Isla Fisher", "Ivanka Trump", "Iggy Azalea", "Jack Black", "Jack Nicholson", "Jackie Chan", "Jake Gyllenhaal", "James Bond", "James Brown", "James Cameron", "Jamie Foxx", "Janet Jackson", "Jason Momoa", "Jennifer Aniston", "Jennifer Lawrence", "Jessica Alba", "Jim Carrey", "Jimmy Fallon", "Joe Montana", "John Cena", "John Legend", "John Lennon", "Johnny Cash", "Johnny Depp", "Jon Stewart", "Jordan Peele", "Julia Roberts", "Justin Bieber", "Justin Timberlake", "Kanye West", "Kate Winslet", "Keanu Reeves", "Kelly Clarkson", "Kendrick Lamar", "Kevin Bacon", "Kevin Costner", "Kevin Durant", "Kevin Hart", "Kobe Bryant", "Kristen Bell", "Kurt Cobain", "Kylie Jenner", "Lady Gaga", "Larry Bird", "LeBron James", "Leonardo DiCaprio", "Liam Neeson", "Lionel Messi", "Lisa Kudrow", "Lizzo Jefferson", "Lorde Yelich", "Luke Skywalker", "Madonna Ciccone", "Magic Johnson", "Marilyn Monroe", "Mark Hamill", "Mark Wahlberg", "Marshall Mathers", "Martin Lawrence", "Matt Damon", "Matthew McConaughey", "Matthew Perry", "Megan Fox", "Meryl Streep", "Michael B Jordan", "Michael Jackson", "Michael Jordan", "Michael Keaton", "Michelle Obama", "Mickey Mantle", "Mickey Mouse", "Mila Kunis", "Morgan Freeman", "Muhammad Ali", "Nancy Pelosi", "Natalie Portman", "Neil Armstrong", "Nicolas Cage", "Nicole Kidman", "Nicki Minaj", "Nina Simone", "Olivia Rodrigo", "Oprah Winfrey", "Orlando Bloom", "Oscar Isaac", "Ozzy Osbourne", "Patrick Mahomes", "Patrick Stewart", "Paul McCartney", "Pele Nascimento", "Pete Davidson", "Peter Parker", "Peyton Manning", "Prince Nelson", "Quentin Tarantino", "Queen Latifah", "Quincy Jones", "Quinn Hughes", "Rachel McAdams", "Rafael Nadal", "Reese Witherspoon", "Rihanna Fenty", "Robert De Niro", "Robert Downey", "Robin Williams", "Roger Federer", "Rosa Parks", "Ryan Gosling", "Ryan Reynolds", "Samuel Jackson", "Sandra Bullock", "Scarlett Johansson", "Serena Williams", "Shaquille ONeal", "Shakira Mebarak", "Simone Biles", "Snoop Dogg", "Stephen Curry", "Steve Carell", "Steve Jobs", "Sylvester Stallone", "Taylor Swift", "Tim Burton", "Tim Cook", "Tina Fey", "Tom Brady", "Tom Cruise", "Tom Hanks", "Tony Hawk", "Tupac Shakur", "Tyler Perry", "Uma Thurman", "Usain Bolt", "Ulysses Grant", "Ursula Andress", "Viola Davis", "Vin Diesel", "Virat Kohli", "Vince Vaughn", "Vladimir Putin", "Walt Disney", "Wayne Gretzky", "Whitney Houston", "Will Ferrell", "Will Smith", "William Shakespeare", "Winston Churchill", "Wolfgang Mozart", "Xavier Woods", "Xabi Alonso", "Xander Bogaerts", "Xena Warrior", "Yao Ming", "Yogi Berra", "Yoko Ono", "Yvonne Strahovski", "Zendaya Coleman", "Zac Efron", "Zach Galifianakis", "Zoe Saldana", "Zooey Deschanel", "Zinedine Zidane"];
+
+function aiTakeTurn(){
+ const p=players[current];
+ if(!p || !p.ai || p.out) return;
+
+ const valid=aiNames.filter(n=>{
+   const info=parseName(n);
+   if(!info) return false;
+   if(requiredLetter && info.firstInitial!==requiredLetter) return false;
+   if(used.has(info.cleaned.toLowerCase())) return false;
+   return true;
+ });
+
+ if(!valid.length){
+   $('answerInput').value='🤖 '+p.name+' is stuck...';
+   setTimeout(()=>giveStrike('AI could not find a name'),1500);
+   return;
+ }
+
+ $('answerInput').value='🤖 '+p.name+' is thinking...';
+
+ setTimeout(()=>{
+   const doubles=valid.filter(n=>parseName(n).isDouble);
+   let pool=valid;
+   if(doubles.length && Math.random()<0.35) pool=doubles;
+   const choice=pool[Math.floor(Math.random()*pool.length)];
+   $('answerInput').value=choice;
+   submitAnswer();
+ },1200+Math.random()*1800);
+}
+
+function parseName(full){const cleaned=full.trim().replace(/\s+/g,' ');const parts=cleaned.split(' ');if(parts.length<2)return null;const first=parts[0],last=parts[parts.length-1];return{cleaned,first,last,firstInitial:first[0].toUpperCase(),lastInitial:last[0].toUpperCase(),isDouble:first[0].toUpperCase()===last[0].toUpperCase()};}
+function nextAliveIndex(from,dir){if(players.filter(p=>!p.out).length<=1)return from;let i=from;do{i=(i+dir+players.length)%players.length;}while(players[i].out);return i;}
+function categoryValue(){return $('categoryPreset').value==='Custom'?($('categoryInput').value.trim()||'Custom Category'):$('categoryPreset').value;}
+function initStats(){stats={reverses:{},names:{},longestBattle:0,currentBattle:0,fastest:null};players.forEach(p=>{stats.reverses[p.name]=0;stats.names[p.name]=0;});}
+function startGame(){const names=$('namesInput').value.split('\n').map(x=>x.trim()).filter(Boolean);if(names.length<2){alert('Add at least 2 players.');return;}players=names.map((name,i)=>({
+name:name.replace('[AI] ',''),
+ai:name.startsWith('[AI] '),
+strikes:0,out:false,color:colors[i%colors.length]
+}));current=0;direction=1;lastDirection=1;requiredLetter=null;requiredSource='Start';used=new Set();log=[];chain=[];turn=1;previousWasDouble=false;reverseBattle=false;strikesOut=Number($('strikeLimit').value);normalSecs=Number($('normalTime').value);seconds=normalSecs;paused=false;initStats();$('categoryLabel').textContent=categoryValue();$('modeLabel').textContent=strikesOut===1?'SUDDEN DEATH':strikesOut+' STRIKES';$('setupBox').classList.add('hidden');render();resetTimer();$('answerInput').focus();}
+function resetTimer(){clearInterval(timer);seconds=reverseBattle?battleSecs:normalSecs;updateTimer();timer=setInterval(()=>{if(paused)return;seconds--;updateTimer();if(seconds<=0)giveStrike('Time expired');},1000)}
+function updateTimer(){const danger=seconds<=10||reverseBattle;$('timerCircle').textContent=seconds;$('heroTimer').textContent=seconds;$('timerCircle').classList.toggle('danger',danger);$('heroTimer').classList.toggle('danger',danger);}
+function showToast(main,small,type='purple'){const t=$('toast'),inn=$('toastInner'),sm=$('toastSmall');inn.className='toastInner '+(type==='red'?'red':'');inn.firstChild.nodeValue=main;sm.textContent=small;t.classList.remove('hidden');setTimeout(()=>t.classList.add('hidden'),1450)}
+
+function setValidation(status, title, detail, url){
+  const box=$('validationStatus');
+  if(!box) return;
+  box.className='validationStatus '+status;
+  const safeTitle = title || '';
+  const safeDetail = detail || '';
+  const link = url ? `<small><a href="${url}" target="_blank" rel="noopener">Open Wikipedia result</a></small>` : '';
+  box.innerHTML = `${safeTitle}${safeDetail?'<small>'+safeDetail+'</small>':''}${link}`;
+}
+
+async function validateWikipedia(name){
+  const auto = document.getElementById('autoValidate');
+  if(auto && !auto.checked){
+    setValidation('', 'Auto validation is off.', 'Players decide validity manually.');
+    return {valid:true, skipped:true};
+  }
+
+  setValidation('checking', '🔍 Checking Wikipedia...', name);
+  paused = true;
+  $('pauseBtn').textContent='RESUME';
+  $('submitBtn').classList.add('submitDisabled');
+
+  try{
+    const summaryUrl='https://en.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(name);
+    let res=await fetch(summaryUrl, {headers:{'Accept':'application/json'}});
+    if(res.ok){
+      const data=await res.json();
+      if(data && data.title && data.type !== 'disambiguation'){
+        setValidation('valid', '✅ Valid: '+data.title, data.description || data.extract || 'Wikipedia page found.', data.content_urls && data.content_urls.desktop ? data.content_urls.desktop.page : '');
+        return {valid:true, title:data.title, description:data.description || data.extract || ''};
+      }
+    }
+
+    const searchUrl='https://en.wikipedia.org/w/api.php?action=query&origin=*&format=json&generator=search&gsrsearch='+encodeURIComponent(name)+'&gsrlimit=3&prop=pageprops|description|info&inprop=url';
+    res=await fetch(searchUrl);
+    const data=await res.json();
+    const pages=data && data.query && data.query.pages ? Object.values(data.query.pages) : [];
+    const exact=pages.find(p => (p.title||'').toLowerCase() === name.toLowerCase());
+    const best=exact || pages[0];
+
+    if(best && best.title){
+      setValidation('valid', '✅ Valid: '+best.title, best.description || 'Wikipedia search result found.', best.fullurl || '');
+      return {valid:true, title:best.title, description:best.description || ''};
+    }
+
+    setValidation('invalid', '❌ Invalid', 'No Wikipedia match found for "'+name+'".');
+    return {valid:false, reason:'No Wikipedia match found'};
+  }catch(e){
+    setValidation('invalid', '❌ Wikipedia check failed', 'The request was blocked or the internet connection failed. Try hosting the file or turn off Auto Validate.');
+    return {valid:false, reason:'Wikipedia request failed'};
+  }finally{
+    paused = false;
+    $('pauseBtn').textContent='PAUSE';
+    $('submitBtn').classList.remove('submitDisabled');
+  }
+}
+
+async function submitAnswer(){const raw=$('answerInput').value.trim();if(!raw)return;const info=parseName(raw);if(!info){alert('Use a first and last name.');return;}
+  const key=info.cleaned.toLowerCase();if(used.has(key)){alert('That name has already been used.');return;}if(requiredLetter&&info.firstInitial!==requiredLetter){alert('That name must start with '+requiredLetter+'.');return;}
+  const check=await validateWikipedia(raw);
+  if(!check.valid){
+    log.push({banner:'WIKIPEDIA COULD NOT VERIFY "'+raw.toUpperCase()+'". STRIKE ISSUED.',status:'bad'});
+    giveStrike('Wikipedia validation failed');
+    return;
+  }const elapsed=(reverseBattle?battleSecs:normalSecs)-seconds; if(stats.fastest===null||elapsed<stats.fastest) stats.fastest=elapsed;
+  playSfx('sfxNameSubmitted'); used.add(key);const p=players[current];stats.names[p.name]=(stats.names[p.name]||0)+1;let result='NORMAL PLAY',status='normal',banner=null,timerUsed=reverseBattle?battleSecs:normalSecs,startsWith=requiredLetter||'—',source=requiredSource;
+  if(info.isDouble){lastDirection=direction;direction*=-1;stats.reverses[p.name]=(stats.reverses[p.name]||0)+1;result='REVERSE';status='reverse';if(previousWasDouble){reverseBattle=true;stats.currentBattle++;stats.longestBattle=Math.max(stats.longestBattle,stats.currentBattle);banner='REVERSE BATTLE! 30 SECOND TIMER ACTIVE.';playSfx('sfxReverse'); showToast('REVERSE BATTLE','30 second timer active','red');}else{stats.currentBattle=1;playSfx('sfxReverse'); showToast('REVERSE','Direction changed','purple');}previousWasDouble=true;animateDirection();}
+  else{if(reverseBattle){banner='REVERSE BATTLE ENDED. PLAY CONTINUES '+(direction===1?'CLOCKWISE':'COUNTERCLOCKWISE')+'.';showToast('BATTLE ENDED','Back to 45 seconds','purple');}reverseBattle=false;previousWasDouble=false;stats.currentBattle=0;result='NORMAL PLAY';status='normal';}
+  const entry={turn:turn++,player:p.name,color:p.color,celebrity:info.cleaned,info,validation:(check.description||check.title||'Wikipedia verified'),startsWith,source,result,status,timerUsed,banner};log.push(entry);lastLogIndex=log.length-1;chain.push(entry);requiredLetter=info.lastInitial;requiredSource=info.last;current=nextAliveIndex(current,direction);
+if(players[current] && !players[current].ai){ playSfx('sfxYourTurn'); }
+$('answerInput').value='';render();resetTimer();}
+function giveStrike(reason){const p=players[current];p.strikes++;log.push({turn:turn++,player:p.name,color:p.color,celebrity:'—',info:null,startsWith:requiredLetter||'—',source:requiredSource,result:reason,status:'bad',timerUsed:seconds});lastLogIndex=null;if(p.strikes>=strikesOut){p.out=true;log.push({banner:p.name.toUpperCase()+' IS OUT!',status:'bad'});}previousWasDouble=false;reverseBattle=false;stats.currentBattle=0;if(players.filter(x=>!x.out).length<=1){render();endGame();return;}current=nextAliveIndex(current,direction);render();resetTimer();}
+function rejectLastName(){if(lastLogIndex===null||!log[lastLogIndex])return;const entry=log[lastLogIndex];const idx=players.findIndex(p=>p.name===entry.player);if(idx<0)return;used.delete(entry.celebrity.toLowerCase());chain=chain.filter(x=>x!==entry);log.push({banner:'CHALLENGE SUCCESSFUL. '+entry.player.toUpperCase()+' RECEIVES A STRIKE.',status:'bad'});current=idx;previousWasDouble=false;reverseBattle=false;stats.currentBattle=0;giveStrike('Invalid answer');}
+function endGame(){clearInterval(timer);const winner=players.find(p=>!p.out);$('winnerTitle').textContent=winner?winner.name+' Wins!':'Game Over';$('winnerMsg').textContent=winner?'Last player standing in '+categoryValue()+'.':'No players left.';$('endStats').innerHTML=endStatsHtml();$('winnerModal').classList.remove('hidden');}
+function topStat(obj){let best='—',val=-1;Object.entries(obj).forEach(([k,v])=>{if(v>val){best=k;val=v}});return val>0?best+' ('+val+')':'—';}
+function endStatsHtml(){return `<div class="statsLine"><span>Most Names</span><span>${topStat(stats.names)}</span></div><div class="statsLine"><span>Most Reverses</span><span>${topStat(stats.reverses)}</span></div><div class="statsLine"><span>Longest Reverse Battle</span><span>${stats.longestBattle||0} names</span></div><div class="statsLine"><span>Fastest Answer</span><span>${stats.fastest===null?'—':stats.fastest+'s'}</span></div>`;}
+function renderPlayers(){$('players').innerHTML=players.map((p,i)=>`<div class="player ${i===current&&!p.out?'active':''} ${p.out?'out':''}"><div class="num" style="background:${p.color}">${i+1}</div><div class="avatar" style="background:${p.color}">${p.name[0].toUpperCase()}</div><div class="pname">${p.name.toUpperCase()}</div><div class="strikeDots">${Array.from({length:strikesOut}).map((_,j)=>`<span class="dot ${j<p.strikes?'hit':''}"></span>`).join('')}</div></div>`).join('');}
+function renderChain(){if(!chain.length){$('chainView').textContent='No names yet.';return;}$('chainView').innerHTML=chain.slice(-12).map(x=>`<span class="${x.info&&x.info.isDouble?'dbl':''}">${x.celebrity}</span>`).join(' → ');}
+function renderLog(){let html='';log.forEach(item=>{if(item.banner){html+=`<div class="banner ${item.status==='bad'?'red':item.banner.includes('ENDED')?'green':'purple'}">${item.banner}</div>`;return;}const celeb=item.info?highlightName(item.info):item.celebrity;const statusClass=item.status==='reverse'?'reverse':item.status==='bad'?'bad':'normal';const statusText=item.status==='reverse'?'↺ '+item.result:item.status==='bad'?'✖ '+item.result:'✓ '+item.result;html+=`<div class="logRow"><div class="turnNum" style="color:${item.color||'var(--red)'}">${item.turn}</div><div class="turnPlayer"><div class="avatar" style="width:42px;height:42px;background:${item.color||'var(--red)'}">${item.player[0]}</div>${item.player.toUpperCase()}</div><div class="celebrity">${celeb}</div><div class="req" style="font-size:14px;text-align:left;color:white">${item.validation||''}</div><div class="result"><span class="${statusClass}">${statusText}</span></div><div class="timeCell ${item.timerUsed===30&&item.status==='reverse'?'red':''}">${item.timerUsed}s</div></div>`;});const p=players[current];if(p&&!p.out){html+=`<div class="logRow current"><div class="turnNum" style="color:${p.color}">${turn}</div><div class="turnPlayer"><div class="avatar" style="width:42px;height:42px;background:${p.color}">${p.name[0]}</div>${p.name.toUpperCase()}</div><div class="celebrity" style="color:${p.color}">YOUR TURN!<br><small style="font-size:17px;color:white">Needs a name that starts with ${requiredLetter||'anything'}</small></div><div class="req">${requiredLetter||'—'}<small>${requiredSource!=='Start'?'('+requiredSource+')':''}</small></div><div></div><div class="timeCell ${reverseBattle?'red':''}">${reverseBattle?30:normalSecs}s</div></div>`}$('log').innerHTML=html;$('log').scrollTop=$('log').scrollHeight;}
+function highlightName(info){const mid=info.cleaned.split(' ').slice(1,-1).join(' ');return `<span class="firstLetter">${info.first[0]}</span>${info.first.slice(1)} ${mid?mid+' ':''}<span class="lastLetter">${info.last[0]}</span>${info.last.slice(1)}`;}
+function renderHero(){const p=players[current];if(!p){return;}$('heroPlayer').textContent=p.out?'GAME OVER':p.name.toUpperCase()+"'S TURN";$('heroNeed').innerHTML='Needs <b>'+(requiredLetter||'ANY')+'</b>';$('heroSub').textContent=reverseBattle?'Reverse Battle is active. This player only has 30 seconds.':(requiredSource==='Start'?'Start the chain with any valid name.':'Previous last name: '+requiredSource+'. Normal 45 second turn.');}
+function animateDirection(){const box=$('directionBox');box.classList.remove('flip');void box.offsetWidth;box.classList.add('flip');}
+function render(){renderPlayers();renderLog();renderChain();renderHero();setTimeout(aiTakeTurn,300);const alive=players.filter(p=>!p.out).length;$('aliveCount').textContent=alive+' / '+players.length;$('dirArrow').textContent=direction===1?'→':'←';$('dirText').textContent=direction===1?'CLOCKWISE':'COUNTERCLOCKWISE';$('battleText').textContent=reverseBattle?'REVERSE BATTLE':'NORMAL PLAY';$('battleText').className='mode '+(reverseBattle?'battle':'');}
+$('categoryPreset').onchange=()=>{$('categoryInput').classList.toggle('hidden',$('categoryPreset').value!=='Custom');if($('categoryPreset').value!=='Custom')$('categoryInput').value=$('categoryPreset').value;};
+$('startBtn').onclick=startGame;$('submitBtn').onclick=submitAnswer;$('answerInput').addEventListener('keydown',e=>{if(e.key==='Enter')submitAnswer()});$('skipBtn').onclick=()=>giveStrike('Strike taken');$('pauseBtn').onclick=()=>{paused=!paused;$('pauseBtn').textContent=paused?'RESUME':'PAUSE'};$('settingsBtn').onclick=()=>$('setupBox').classList.toggle('hidden');$('newBtn').onclick=()=>{clearInterval(timer);$('setupBox').classList.remove('hidden')};$('closeWinner').onclick=()=>$('winnerModal').classList.add('hidden');$('winnerNew').onclick=()=>location.reload();
+$('challengeBtn').onclick=()=>{paused=true;$('pauseBtn').textContent='RESUME';const last=lastLogIndex!==null?log[lastLogIndex]:null;$('challengeName').textContent=last?'Last answer: '+last.celebrity+' by '+last.player:'No answer to challenge yet.';$('challengeModal').classList.remove('hidden')};$('cancelChallenge').onclick=()=>{$('challengeModal').classList.add('hidden')};$('acceptChallenge').onclick=()=>{$('challengeModal').classList.add('hidden');paused=false;$('pauseBtn').textContent='PAUSE'};$('rejectChallenge').onclick=()=>{$('challengeModal').classList.add('hidden');paused=false;$('pauseBtn').textContent='PAUSE';rejectLastName()};
+
+function buildPlayerInputs(){
+ const c=Number(document.getElementById('playerCountSelect').value);
+ const box=document.getElementById('playerInputs');
+ let h='';
+ for(let i=1;i<=c;i++) h+=`<input placeholder="Player ${i}" value="Player ${i}" style="margin-bottom:8px">`;
+ box.innerHTML=h;
+}
+buildPlayerInputs();
+document.getElementById('playerCountSelect').onchange=buildPlayerInputs;
+document.getElementById('launchGameBtn').onclick=()=>{
+ const names=[...document.querySelectorAll('#playerInputs input')].map(x=>x.value.trim()).filter(Boolean);
+ const aiCount=Number(document.getElementById('aiCountSelect').value);
+ for(let i=1;i<=aiCount;i++) names.push('[AI] AI '+i);
+ document.getElementById('namesInput').value=names.join('\n');
+ document.getElementById('categoryPreset').value=document.getElementById('startCategory').value;
+ document.getElementById('startScreen').style.display='none';
+ startGame();
+};
+
+</script>
+</body>
+</html>
