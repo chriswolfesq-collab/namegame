@@ -200,7 +200,7 @@ function aiTakeTurn(){
    const choice=pool[Math.floor(Math.random()*pool.length)];
    $('answerInput').value=choice;
    submitAnswer();
- },1200+Math.random()*1800);
+ },2500+Math.random()*2500);
 }
 
 function parseName(full){const cleaned=full.trim().replace(/\s+/g,' ');const parts=cleaned.split(' ');if(parts.length<2)return null;const first=parts[0],last=parts[parts.length-1];return{cleaned,first,last,firstInitial:first[0].toUpperCase(),lastInitial:last[0].toUpperCase(),isDouble:first[0].toUpperCase()===last[0].toUpperCase()};}
