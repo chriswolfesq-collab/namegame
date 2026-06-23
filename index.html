@@ -114,7 +114,7 @@
     <div class="sidebar">
       <div class="card playerList"><div class="panelTitle"><span>PLAYERS</span><span>STRIKES</span></div><div id="players"></div></div>
       <div class="card directionBox" id="directionBox"><div class="label">TABLE DIRECTION</div><div class="arrow" id="dirArrow">→</div><h2 id="dirText">CLOCKWISE</h2><div class="mode" id="battleText">NORMAL PLAY</div></div>
-      <div class="card chainCard"><div class="chainTitle">CURRENT CHAIN</div><div class="chain" id="chainView">No names yet.</div></div>
+      
       
       <div class="card setup" id="setupBox"><h3>SETUP</h3><label>Category Preset</label><select id="categoryPreset"><option>Any Famous Person</option><option>Actors / Actresses</option><option>Athletes</option><option>Musicians</option><option>Fictional Characters</option><option>Politicians / Historical Figures</option><option>Custom</option></select><input class="selectCustom hidden" id="categoryInput" value="Any Famous Person"><label>Players, one per line</label><textarea id="namesInput" class="namesBox">Bob
 Chris
@@ -153,9 +153,14 @@ Sarah</textarea><div class="grid2"><div><label>Strikes Out</label><select id="st
   <source src="yourturn.mp3" type="audio/mpeg">
 </audio>
 
+
+<audio id="sfxTenSeconds" preload="auto">
+  <source src="10secondsremaining.mp3" type="audio/mpeg">
+</audio>
+
 <script>
 let players=[], current=0, direction=1, requiredLetter=null, requiredSource='Start', used=new Set(), log=[], chain=[], turn=1;
-let strikesOut=3, normalSecs=45, battleSecs=30, seconds=45, timer=null, paused=false;
+let strikesOut=3, normalSecs=45, battleSecs=30, seconds=45, timer=null, paused=false; let tenSecondPlayed=false;
 let previousWasDouble=false, reverseBattle=false, lastLogIndex=null, lastDirection=1;
 let stats={reverses:{},names:{},longestBattle:0,currentBattle:0,fastest:null};
 const $=id=>document.getElementById(id);
@@ -216,8 +221,25 @@ ai,difficulty:diff,
 strikes:0,out:false,color:colors[i%colors.length]
 };
 });current=0;direction=1;lastDirection=1;requiredLetter=null;requiredSource='Start';used=new Set();log=[];chain=[];turn=1;previousWasDouble=false;reverseBattle=false;strikesOut=Number($('strikeLimit').value);normalSecs=Number($('normalTime').value);seconds=normalSecs;paused=false;initStats();$('categoryLabel').textContent=categoryValue();$('modeLabel').textContent=strikesOut===1?'SUDDEN DEATH':strikesOut+' STRIKES';$('setupBox').classList.add('hidden');render();resetTimer();$('answerInput').focus();}
-function resetTimer(){clearInterval(timer);seconds=reverseBattle?battleSecs:normalSecs;updateTimer();timer=setInterval(()=>{if(paused)return;seconds--;updateTimer();if(seconds<=0)giveStrike('Time expired');},1000)}
-function updateTimer(){const danger=seconds<=10||reverseBattle;$('timerCircle').textContent=seconds;$('heroTimer').textContent=seconds;$('timerCircle').classList.toggle('danger',danger);$('heroTimer').classList.toggle('danger',danger);}
+function resetTimer(){
+clearInterval(timer);
+seconds=reverseBattle?battleSecs:normalSecs;
+tenSecondPlayed=false;
+updateTimer();
+timer=setInterval(()=>{
+if(paused)return;
+seconds--;
+updateTimer();
+if(seconds<=0)giveStrike('Time expired');
+},1000)
+}
+function updateTimer(){
+const danger=seconds<=10||reverseBattle;
+if(seconds===10 && !tenSecondPlayed){
+ tenSecondPlayed=true;
+ playSfx('sfxTenSeconds');
+}
+$('timerCircle').textContent=seconds;$('heroTimer').textContent=seconds;$('timerCircle').classList.toggle('danger',danger);$('heroTimer').classList.toggle('danger',danger);}
 function showToast(main,small,type='purple'){const t=$('toast'),inn=$('toastInner'),sm=$('toastSmall');inn.className='toastInner '+(type==='red'?'red':'');inn.firstChild.nodeValue=main;sm.textContent=small;t.classList.remove('hidden');setTimeout(()=>t.classList.add('hidden'),1450)}
 
 function setValidation(status, title, detail, url){
@@ -297,7 +319,7 @@ function endGame(){clearInterval(timer);const winner=players.find(p=>!p.out);$('
 function topStat(obj){let best='—',val=-1;Object.entries(obj).forEach(([k,v])=>{if(v>val){best=k;val=v}});return val>0?best+' ('+val+')':'—';}
 function endStatsHtml(){return `<div class="statsLine"><span>Most Names</span><span>${topStat(stats.names)}</span></div><div class="statsLine"><span>Most Reverses</span><span>${topStat(stats.reverses)}</span></div><div class="statsLine"><span>Longest Reverse Battle</span><span>${stats.longestBattle||0} names</span></div><div class="statsLine"><span>Fastest Answer</span><span>${stats.fastest===null?'—':stats.fastest+'s'}</span></div>`;}
 function renderPlayers(){$('players').innerHTML=players.map((p,i)=>`<div class="player ${i===current&&!p.out?'active':''} ${p.out?'out':''}"><div class="num" style="background:${p.color}">${i+1}</div><div class="avatar" style="background:${p.color}">${p.name[0].toUpperCase()}</div><div class="pname">${p.name.toUpperCase()}</div><div class="strikeDots">${Array.from({length:strikesOut}).map((_,j)=>`<span class="dot ${j<p.strikes?'hit':''}"></span>`).join('')}</div></div>`).join('');}
-function renderChain(){if(!chain.length){$('chainView').textContent='No names yet.';return;}$('chainView').innerHTML=chain.slice(-12).map(x=>`<span class="${x.info&&x.info.isDouble?'dbl':''}">${x.celebrity}</span>`).join(' → ');}
+function renderChain(){const el=$('chainView'); if(!el) return; if(!chain.length){el.textContent='No names yet.';return;} el.innerHTML=chain.slice(-12).map(x=>`<span class="${x.info&&x.info.isDouble?'dbl':''}">${x.celebrity}</span>`).join(' → ');}
 function renderLog(){let html='';log.forEach(item=>{const celeb=item.info?highlightName(item.info):item.celebrity;const statusClass=item.status==='reverse'?'reverse':item.status==='bad'?'bad':'normal';const statusText=item.status==='reverse'?'↺ '+item.result:item.status==='bad'?'✖ '+item.result:'✓ '+item.result;html+=`<div class="logRow"><div class="turnNum" style="color:${item.color||'var(--red)'}">${item.turn}</div><div class="turnPlayer"><div class="avatar" style="width:42px;height:42px;background:${item.color||'var(--red)'}">${item.player[0]}</div>${item.player.toUpperCase()}</div><div class="celebrity">${celeb}</div><div class="req" style="font-size:14px;text-align:left;color:white">${item.validation||''}</div><div class="result"><span class="${statusClass}">${statusText}</span></div><div class="timeCell ${item.timerUsed===30&&item.status==='reverse'?'red':''}">${item.timerUsed}s</div></div>`;
 if(item.banner){
 html+=`<div class="banner ${item.banner.includes('ENDED')?'green':'purple'}">${item.banner}</div>`;
@@ -306,7 +328,7 @@ html+=`<div class="banner ${item.banner.includes('ENDED')?'green':'purple'}">${i
 function highlightName(info){const mid=info.cleaned.split(' ').slice(1,-1).join(' ');return `<span class="firstLetter">${info.first[0]}</span>${info.first.slice(1)} ${mid?mid+' ':''}<span class="lastLetter">${info.last[0]}</span>${info.last.slice(1)}`;}
 function renderHero(){const p=players[current];if(!p){return;}$('heroPlayer').textContent=p.out?'GAME OVER':p.name.toUpperCase()+"'S TURN";$('heroNeed').innerHTML='Needs <b>'+(requiredLetter||'ANY')+'</b>';$('heroSub').textContent=reverseBattle?'Reverse Battle is active. This player only has 30 seconds.':(requiredSource==='Start'?'Start the chain with any valid name.':'Previous last name: '+requiredSource+'. Normal 45 second turn.');}
 function animateDirection(){const box=$('directionBox');box.classList.remove('flip');void box.offsetWidth;box.classList.add('flip');}
-function render(){renderPlayers();renderLog();renderChain();renderHero();setTimeout(aiTakeTurn,300);const alive=players.filter(p=>!p.out).length;$('aliveCount').textContent=alive+' / '+players.length;$('dirArrow').textContent=direction===1?'→':'←';$('dirText').textContent=direction===1?'CLOCKWISE':'COUNTERCLOCKWISE';$('battleText').textContent=reverseBattle?'REVERSE BATTLE':'NORMAL PLAY';$('battleText').className='mode '+(reverseBattle?'battle':'');}
+function render(){renderPlayers();renderLog();renderHero();setTimeout(aiTakeTurn,300);const alive=players.filter(p=>!p.out).length;$('aliveCount').textContent=alive+' / '+players.length;$('dirArrow').textContent=direction===1?'→':'←';$('dirText').textContent=direction===1?'CLOCKWISE':'COUNTERCLOCKWISE';$('battleText').textContent=reverseBattle?'REVERSE BATTLE':'NORMAL PLAY';$('battleText').className='mode '+(reverseBattle?'battle':'');}
 $('categoryPreset').onchange=()=>{$('categoryInput').classList.toggle('hidden',$('categoryPreset').value!=='Custom');if($('categoryPreset').value!=='Custom')$('categoryInput').value=$('categoryPreset').value;};
 $('startBtn').onclick=startGame;$('submitBtn').onclick=submitAnswer;$('answerInput').addEventListener('keydown',e=>{if(e.key==='Enter')submitAnswer()});$('skipBtn').onclick=()=>giveStrike('Strike taken');$('pauseBtn').onclick=()=>{paused=!paused;$('pauseBtn').textContent=paused?'RESUME':'PAUSE'};$('settingsBtn').onclick=()=>$('setupBox').classList.toggle('hidden');$('newBtn').onclick=()=>{clearInterval(timer);$('setupBox').classList.remove('hidden')};$('closeWinner').onclick=()=>$('winnerModal').classList.add('hidden');$('winnerNew').onclick=()=>location.reload();
 $('challengeBtn').onclick=()=>{paused=true;$('pauseBtn').textContent='RESUME';const last=lastLogIndex!==null?log[lastLogIndex]:null;$('challengeName').textContent=last?'Last answer: '+last.celebrity+' by '+last.player:'No answer to challenge yet.';$('challengeModal').classList.remove('hidden')};$('cancelChallenge').onclick=()=>{$('challengeModal').classList.add('hidden')};$('acceptChallenge').onclick=()=>{$('challengeModal').classList.add('hidden');paused=false;$('pauseBtn').textContent='PAUSE'};$('rejectChallenge').onclick=()=>{$('challengeModal').classList.add('hidden');paused=false;$('pauseBtn').textContent='PAUSE';rejectLastName()};
