@@ -328,7 +328,7 @@ html+=`<div class="banner ${item.banner.includes('ENDED')?'green':'purple'}">${i
 function highlightName(info){const mid=info.cleaned.split(' ').slice(1,-1).join(' ');return `<span class="firstLetter">${info.first[0]}</span>${info.first.slice(1)} ${mid?mid+' ':''}<span class="lastLetter">${info.last[0]}</span>${info.last.slice(1)}`;}
 function renderHero(){const p=players[current];if(!p){return;}$('heroPlayer').textContent=p.out?'GAME OVER':p.name.toUpperCase()+"'S TURN";$('heroNeed').innerHTML='Needs <b>'+(requiredLetter||'ANY')+'</b>';$('heroSub').textContent=reverseBattle?'Reverse Battle is active. This player only has 30 seconds.':(requiredSource==='Start'?'Start the chain with any valid name.':'Previous last name: '+requiredSource+'. Normal 45 second turn.');}
 function animateDirection(){const box=$('directionBox');box.classList.remove('flip');void box.offsetWidth;box.classList.add('flip');}
-function render(){renderPlayers();renderLog();renderHero();setTimeout(aiTakeTurn,300);const alive=players.filter(p=>!p.out).length;$('aliveCount').textContent=alive+' / '+players.length;$('dirArrow').textContent=direction===1?'→':'←';$('dirText').textContent=direction===1?'CLOCKWISE':'COUNTERCLOCKWISE';$('battleText').textContent=reverseBattle?'REVERSE BATTLE':'NORMAL PLAY';$('battleText').className='mode '+(reverseBattle?'battle':'');}
+function render(){renderPlayers();renderLog();renderChain();renderHero();setTimeout(aiTakeTurn,300);const alive=players.filter(p=>!p.out).length;$('aliveCount').textContent=alive+' / '+players.length;$('dirArrow').textContent=direction===1?'→':'←';$('dirText').textContent=direction===1?'CLOCKWISE':'COUNTERCLOCKWISE';$('battleText').textContent=reverseBattle?'REVERSE BATTLE':'NORMAL PLAY';$('battleText').className='mode '+(reverseBattle?'battle':'');}
 $('categoryPreset').onchange=()=>{$('categoryInput').classList.toggle('hidden',$('categoryPreset').value!=='Custom');if($('categoryPreset').value!=='Custom')$('categoryInput').value=$('categoryPreset').value;};
 $('startBtn').onclick=startGame;$('submitBtn').onclick=submitAnswer;$('answerInput').addEventListener('keydown',e=>{if(e.key==='Enter')submitAnswer()});$('skipBtn').onclick=()=>giveStrike('Strike taken');$('pauseBtn').onclick=()=>{paused=!paused;$('pauseBtn').textContent=paused?'RESUME':'PAUSE'};$('settingsBtn').onclick=()=>$('setupBox').classList.toggle('hidden');$('newBtn').onclick=()=>{clearInterval(timer);$('setupBox').classList.remove('hidden')};$('closeWinner').onclick=()=>$('winnerModal').classList.add('hidden');$('winnerNew').onclick=()=>location.reload();
 $('challengeBtn').onclick=()=>{paused=true;$('pauseBtn').textContent='RESUME';const last=lastLogIndex!==null?log[lastLogIndex]:null;$('challengeName').textContent=last?'Last answer: '+last.celebrity+' by '+last.player:'No answer to challenge yet.';$('challengeModal').classList.remove('hidden')};$('cancelChallenge').onclick=()=>{$('challengeModal').classList.add('hidden')};$('acceptChallenge').onclick=()=>{$('challengeModal').classList.add('hidden');paused=false;$('pauseBtn').textContent='PAUSE'};$('rejectChallenge').onclick=()=>{$('challengeModal').classList.add('hidden');paused=false;$('pauseBtn').textContent='PAUSE';rejectLastName()};
@@ -356,7 +356,11 @@ document.getElementById('playerCountSelect').onchange=buildPlayerInputs;
 document.getElementById('launchGameBtn').onclick=()=>{
  const names=[...document.querySelectorAll('#playerInputs input')].map(x=>x.value.trim()).filter(Boolean);
  const aiCount=Number(document.getElementById('aiCountSelect').value);
- for(let i=1;i<=aiCount;i++) names.push('[AI]['+rollAIDifficulty()+'] AI '+i);
+ 
+const aiPool=['Atlas','Nova','Phoenix','Maverick','Titan','Rogue','Echo','Vega','Blaze','Onyx','Storm','Jinx','Rocket','Ace','Bolt','Falcon','Ghost','Havoc','Saber','Drift','Comet','Orbit','Shadow','Frost','Ember','Knox','Raven','Diesel','Bandit'];
+const shuffled=[...aiPool].sort(()=>Math.random()-0.5);
+for(let i=0;i<aiCount;i++) names.push('[AI]['+rollAIDifficulty()+'] '+shuffled[i]);
+
  document.getElementById('namesInput').value=names.join('\n');
  document.getElementById('categoryPreset').value=document.getElementById('startCategory').value;
  document.getElementById('startScreen').style.display='none';
