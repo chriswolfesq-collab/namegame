@@ -56,8 +56,7 @@
     font-family:Arial,sans-serif;font-weight:1000;font-size:30px;color:var(--muted)
   }
   .celebText{display:flex;flex-direction:column;gap:4px}
-  .celebSub{font-family:Arial,sans-serif;font-size:13px;color:var(--muted);font-weight:900;line-height:1.2}
-
+  
   @media(max-width:1100px){.top,.main,.turnHero{grid-template-columns:1fr}.heroTimer{margin:0 auto}.actions{grid-template-columns:1fr 1fr}.tableHeader{display:none}.log{max-height:none}.logRow{grid-template-columns:1fr;gap:8px;padding:16px}.inputArea{grid-template-columns:1fr}.logo h1{font-size:54px}.turnName{font-size:44px}.turnNeed b{font-size:48px}.main{gap:14px}.sidebar{order:2}.game{order:1}.top{gap:12px}.app{padding:12px}}
 
 .startScreen{position:fixed;inset:0;background:radial-gradient(circle at top left,#10223c 0,#050b14 50%,#02050a 100%);display:flex;align-items:center;justify-content:center;z-index:100}
@@ -94,6 +93,16 @@ background:rgba(0,0,0,.82);z-index:999;
         <option>Any Famous Person</option>
         <option>Actors / Actresses</option>
         <option>Athletes</option>
+        <option>Baseball</option>
+        <option>Football</option>
+        <option>Basketball</option>
+        <option>Hockey</option>
+        <option>Soccer</option>
+        <option>Motorsports</option>
+        <option>Tennis</option>
+        <option>Golf</option>
+        <option>Combat Sports</option>
+        <option>Olympics / Track & Field</option>
         <option>Musicians</option>
         <option>Fictional Characters</option>
       </select>
@@ -144,7 +153,7 @@ background:rgba(0,0,0,.82);z-index:999;
       <div class="card directionBox" id="directionBox"><div class="label">TABLE DIRECTION</div><div class="arrow" id="dirArrow">→</div><h2 id="dirText">CLOCKWISE</h2><div class="mode" id="battleText">NORMAL PLAY</div></div>
       
       
-      <div class="card setup" id="setupBox"><h3>SETUP</h3><label>Category Preset</label><select id="categoryPreset"><option>Any Famous Person</option><option>Actors / Actresses</option><option>Athletes</option><option>Musicians</option><option>Fictional Characters</option><option>Politicians / Historical Figures</option><option>Custom</option></select><input class="selectCustom hidden" id="categoryInput" value="Any Famous Person"><label>Players, one per line</label><textarea id="namesInput" class="namesBox">Bob
+      <div class="card setup" id="setupBox"><h3>SETUP</h3><label>Category Preset</label><select id="categoryPreset"><option>Any Famous Person</option><option>Actors / Actresses</option><option>Athletes</option><option>Baseball</option><option>Football</option><option>Basketball</option><option>Hockey</option><option>Soccer</option><option>Motorsports</option><option>Tennis</option><option>Golf</option><option>Combat Sports</option><option>Olympics / Track & Field</option><option>Musicians</option><option>Fictional Characters</option><option>Politicians / Historical Figures</option><option>Custom</option></select><input class="selectCustom hidden" id="categoryInput" value="Any Famous Person"><label>Players, one per line</label><textarea id="namesInput" class="namesBox">Bob
 Chris
 Jen
 Mike
@@ -161,7 +170,7 @@ Sarah</textarea><div class="grid2"><div><label>Game Mode</label><div style="padd
         <button class="pass" id="skipBtn">STRIKE</button>
         <button class="miss" id="pauseBtn">PAUSE</button>
       </div>
-      <div class="footerNote">The game checks name format, required starting letter, repeats, direction, strikes, elimination, and Reverse Battle timing. Category validity can be checked automatically with Wikipedia. The Challenge button remains available for player disputes.</div>
+      <div class="footerNote">The game checks name format, required starting letter, repeats, direction, strikes, elimination, and Reverse Battle timing. Category validity is checked automatically with Wikipedia when a category is selected. The Challenge button remains available for player disputes.</div>
     </div>
   </div>
 </div>
@@ -202,6 +211,7 @@ let players=[], current=0, direction=1, requiredLetter=null, requiredSource='Sta
 let strikesOut=1, normalSecs=45, battleSecs=30, seconds=45, timer=null, paused=false, tenSecondPlayed=false;
 let previousWasDouble=false, reverseBattle=false, lastLogIndex=null;
 let activeTurnId=0, aiTimeout=null, gameActive=false;
+let gameCategory='Any Famous Person';
 let stats={reverses:{},names:{},longestBattle:0,currentBattle:0,fastest:null};
 
 const $=id=>document.getElementById(id);
@@ -261,7 +271,8 @@ function startGame(){
  normalSecs=Number($('normalTime')?.value||45); seconds=normalSecs; paused=false; tenSecondPlayed=false;
  gameActive=true; activeTurnId=0;
  initStats();
- $('categoryLabel').textContent=categoryValue();
+ gameCategory=categoryValue();
+ $('categoryLabel').textContent=gameCategory;
  $('modeLabel').textContent='SUDDEN DEATH';
  $('setupBox')?.classList.add('hidden');
  beginTurn();
@@ -300,13 +311,39 @@ function updateTimer(){
  $('heroTimer')?.classList.toggle('danger',danger);
 }
 
+function aiPoolForCurrentCategory(){
+ const cat=selectedCategory();
+ if(cat==='Any Famous Person') return aiNames;
+
+ const LOCAL_AI_TAGS={
+   "Baseball":["Barry Bonds","Derek Jeter","Mickey Mantle","Yogi Berra","Xander Bogaerts"],
+   "Football":["Tom Brady","Peyton Manning","Joe Montana","Cam Newton","Dak Prescott","Patrick Mahomes"],
+   "Basketball":["Michael Jordan","LeBron James","Kobe Bryant","Stephen Curry","Kevin Durant","Shaquille ONeal","Larry Bird","Magic Johnson","Bill Russell"],
+   "Hockey":["Wayne Gretzky","Quinn Hughes"],
+   "Soccer":["Lionel Messi","Cristiano Ronaldo","Pele Nascimento","Xabi Alonso","Zinedine Zidane"],
+   "Motorsports":[],
+   "Tennis":["Serena Williams","Roger Federer","Rafael Nadal"],
+   "Golf":[],
+   "Combat Sports":["Muhammad Ali","Floyd Mayweather","John Cena"],
+   "Olympics / Track & Field":["Simone Biles","Usain Bolt","Serena Williams"],
+   "Athletes":["Barry Bonds","Derek Jeter","Mickey Mantle","Yogi Berra","Xander Bogaerts","Tom Brady","Peyton Manning","Joe Montana","Cam Newton","Dak Prescott","Patrick Mahomes","Michael Jordan","LeBron James","Kobe Bryant","Stephen Curry","Kevin Durant","Shaquille ONeal","Larry Bird","Magic Johnson","Bill Russell","Wayne Gretzky","Quinn Hughes","Lionel Messi","Cristiano Ronaldo","Pele Nascimento","Xabi Alonso","Zinedine Zidane","Serena Williams","Roger Federer","Rafael Nadal","Muhammad Ali","Floyd Mayweather","John Cena","Simone Biles","Usain Bolt"],
+   "Actors / Actresses":["Tom Hanks","Halle Berry","Bruce Willis","Sylvester Stallone","Denzel Washington","Leonardo DiCaprio","Meryl Streep","Emma Stone","Keanu Reeves","Morgan Freeman","Julia Roberts","Johnny Depp","Ryan Reynolds","Ryan Gosling","Scarlett Johansson","Natalie Portman"],
+   "Musicians":["Taylor Swift","Adele Adkins","Beyonce Knowles","Elvis Presley","Michael Jackson","Prince Nelson","Rihanna Fenty","Kanye West","Billy Joel","Bob Dylan","Frank Sinatra","Freddie Mercury","Lady Gaga","Drake Graham","Eminem Mathers"],
+   "Fictional Characters":["Mickey Mouse","Bugs Bunny","Harry Potter","Luke Skywalker","Peter Parker","Donald Duck","James Bond","Xena Warrior"],
+   "Politicians / Historical Figures":["Barack Obama","George Washington","Hillary Clinton","Nancy Pelosi","Winston Churchill","Ulysses Grant","Alexander Hamilton","Albert Einstein","Isaac Newton","Neil Armstrong","Rosa Parks","William Shakespeare","Frida Kahlo"]
+ };
+
+ const local=LOCAL_AI_TAGS[cat]||[];
+ return local.length ? aiNames.filter(n=>local.includes(n)) : aiNames;
+}
+
 function aiTakeTurn(turnId,playerIndex){
  if(!gameActive || turnId!==activeTurnId || playerIndex!==current)return;
  const p=players[current];
  if(!p || !p.ai || p.out)return;
  const diff=p.difficulty||'Medium';
  const failRate={Easy:.15,Medium:.05,Hard:.01,Expert:0}[diff]||0;
- const valid=aiNames.filter(n=>{
+ const valid=aiPoolForCurrentCategory().filter(n=>{
    const info=parseName(n);
    if(!info) return false;
    if(requiredLetter && info.firstInitial!==requiredLetter) return false;
@@ -362,44 +399,195 @@ function setValidation(status,title,detail,url){
  box.innerHTML=`${title||''}${detail?'<small>'+detail+'</small>':''}${link}`;
 }
 
-async function validateWikipedia(name){
- const auto=$('autoValidate');
- if(auto && !auto.checked){setValidation('', 'Auto validation is off.', 'Players decide validity manually.');return {valid:true, skipped:true};}
- setValidation('checking','🔍 Checking Wikipedia...',name);
- paused=true;
- if($('pauseBtn')) $('pauseBtn').textContent='RESUME';
- $('submitBtn')?.classList.add('submitDisabled');
+
+const CATEGORY_RULES={
+ "Any Famous Person":{positive:[],negative:[]},
+
+ "Actors / Actresses":{
+   positive:[" actor"," actress","film actor","television actor","voice actor","comedian","filmmaker"],
+   negative:["football player","baseball player","basketball player","ice hockey player","racing driver","boxer","mixed martial artist","politician","singer","rapper"]
+ },
+
+ "Athletes":{
+   positive:["athlete","football player","baseball player","basketball player","ice hockey player","soccer player","association football player","footballer","tennis player","golfer","boxer","fighter","racing driver","olympian","olympic","professional wrestler","gymnast","swimmer","runner","quarterback","pitcher","outfielder","infielder"],
+   negative:[" actor"," actress","film actor","television actor","voice actor","filmmaker","singer","songwriter","rapper","musician","politician","writer","author"]
+ },
+
+ "Baseball":{
+   positive:["baseball player","major league baseball","mlb","minor league baseball","negro league","pitcher","catcher","outfielder","infielder","first baseman","second baseman","third baseman","shortstop","designated hitter","baseball coach","baseball manager"],
+   negative:["football player","basketball player","ice hockey player","soccer player","footballer","racing driver","actor","actress","singer","politician"]
+ },
+
+ "Football":{
+   positive:["american football player","football player","national football league","nfl","college football","quarterback","running back","wide receiver","tight end","linebacker","cornerback","safety","defensive end","offensive tackle","offensive guard","placekicker","punter"],
+   negative:["baseball player","basketball player","ice hockey player","soccer player","footballer","racing driver","actor","actress","singer","politician"]
+ },
+
+ "Basketball":{
+   positive:["basketball player","national basketball association","nba","wnba","point guard","shooting guard","small forward","power forward","basketball coach"],
+   negative:["baseball player","football player","ice hockey player","soccer player","footballer","racing driver","actor","actress","singer","politician"]
+ },
+
+ "Hockey":{
+   positive:["ice hockey player","national hockey league","nhl","hockey player","goaltender","defenceman","defenseman","ice hockey coach"],
+   negative:["baseball player","football player","basketball player","soccer player","footballer","racing driver","actor","actress","singer","politician"]
+ },
+
+ "Soccer":{
+   positive:["association football player","footballer","soccer player","major league soccer","mls","premier league","la liga","serie a","bundesliga","ligue 1","fifa","uefa"],
+   negative:["american football player","baseball player","basketball player","ice hockey player","racing driver","actor","actress","singer","politician"]
+ },
+
+ "Motorsports":{
+   positive:["racing driver","racecar driver","race car driver","formula one","formula 1","f1 driver","nascar","indycar","indy car","motogp","world rally championship","wrc","endurance racing","le mans","stock car racing","open-wheel racing","drag racer"],
+   negative:["baseball player","football player","basketball player","ice hockey player","soccer player","actor","actress","singer","politician"]
+ },
+
+ "Tennis":{
+   positive:["tennis player","atp","wta","grand slam","davis cup","billie jean king cup"],
+   negative:["baseball player","football player","basketball player","ice hockey player","racing driver","actor","actress","singer","politician"]
+ },
+
+ "Golf":{
+   positive:["golfer","pga tour","lpga","masters tournament","u.s. open","open championship","ryder cup"],
+   negative:["baseball player","football player","basketball player","ice hockey player","racing driver","actor","actress","singer","politician"]
+ },
+
+ "Combat Sports":{
+   positive:["boxer","boxing","mixed martial artist","mma fighter","ufc","kickboxer","wrestler","professional wrestler","judoka","martial artist","brazilian jiu-jitsu"],
+   negative:["baseball player","football player","basketball player","ice hockey player","racing driver","actor","actress","singer","politician"]
+ },
+
+ "Olympics / Track & Field":{
+   positive:["olympian","olympic","track and field","sprinter","long-distance runner","middle-distance runner","hurdler","swimmer","gymnast","skier","figure skater","speed skater","javelin thrower","discus thrower","shot putter","pole vaulter"],
+   negative:["actor","actress","singer","politician","writer","author"]
+ },
+
+ "Musicians":{
+   positive:["musician","singer","songwriter","rapper","band","composer","guitarist","pianist","drummer","record producer"],
+   negative:["football player","baseball player","basketball player","actor","actress","politician"]
+ },
+
+ "Fictional Characters":{
+   positive:["fictional character","animated character","comic book character","video game character","television character","film character"],
+   negative:["american actor","american actress","football player","baseball player","politician","singer"]
+ },
+
+ "Politicians / Historical Figures":{
+   positive:["politician","president","prime minister","governor","senator","representative","king","queen","emperor","general","activist","leader","historical figure"],
+   negative:["actor","actress","football player","baseball player","basketball player","singer","rapper"]
+ },
+
+ "Custom":{positive:[],negative:[]}
+};
+
+function selectedCategory(){
+ return gameCategory || 'Any Famous Person';
+}
+
+function categorySearchText(obj){
+ return [
+   obj.title||'',
+   obj.description||'',
+   obj.extract||'',
+   obj.categoriesText||''
+ ].join(' ').toLowerCase();
+}
+
+function categoryMatchesWikipedia(obj){
+ const cat=selectedCategory();
+ if(cat==='Any Famous Person') return {ok:true};
+
+ const rules=CATEGORY_RULES[cat]||{positive:[],negative:[]};
+ if(!rules.positive.length) return {ok:true};
+
+ const text=' '+categorySearchText(obj).replace(/\s+/g,' ')+' ';
+
+ const positiveHit=(rules.positive||[]).find(rule=>text.includes(rule.toLowerCase()));
+ const negativeHit=(rules.negative||[]).find(rule=>text.includes(rule.toLowerCase()));
+
+ if(positiveHit) return {ok:true,hit:positiveHit};
+ if(negativeHit) return {ok:false,cat,reason:'negative match: '+negativeHit};
+
+ return {ok:false,cat};
+}
+
+async function fetchWikiCategories(title){
  try{
-   const summaryUrl='https://en.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(name);
-   let res=await fetch(summaryUrl,{headers:{'Accept':'application/json'}});
-   if(res.ok){
-     const data=await res.json();
-     if(data && data.title && data.type!=='disambiguation'){
-       setValidation('valid','✅ Valid: '+data.title,data.description||data.extract||'Wikipedia page found.',data.content_urls&&data.content_urls.desktop?data.content_urls.desktop.page:'');
-       return {valid:true,title:data.title,description:data.description||data.extract||'',photo:data.thumbnail&&data.thumbnail.source?data.thumbnail.source:''};
-     }
-   }
-   const searchUrl='https://en.wikipedia.org/w/api.php?action=query&origin=*&format=json&generator=search&gsrsearch='+encodeURIComponent(name)+'&gsrlimit=3&prop=pageprops|description|info&inprop=url';
-   res=await fetch(searchUrl);
+   const url='https://en.wikipedia.org/w/api.php?action=query&origin=*&format=json&prop=categories&cllimit=50&titles='+encodeURIComponent(title);
+   const res=await fetch(url);
+   if(!res.ok) return '';
    const data=await res.json();
    const pages=data&&data.query&&data.query.pages?Object.values(data.query.pages):[];
-   const exact=pages.find(p=>(p.title||'').toLowerCase()===name.toLowerCase());
-   const best=exact||pages[0];
-   if(best&&best.title){
-     setValidation('valid','✅ Valid: '+best.title,best.description||'Wikipedia search result found.',best.fullurl||'');
-     return {valid:true,title:best.title,description:best.description||'',photo:''};
-   }
-   setValidation('invalid','❌ Invalid','No Wikipedia match found for "'+name+'".');
-   return {valid:false,reason:'No Wikipedia match found'};
+   const cats=(pages[0]&&pages[0].categories)?pages[0].categories.map(c=>c.title.replace('Category:','')):[];
+   return cats.join(' ');
  }catch(e){
-   setValidation('invalid','❌ Wikipedia check failed','The request was blocked or the internet connection failed. Try hosting the file or turn off Auto Validate.');
-   return {valid:false,reason:'Wikipedia request failed'};
- }finally{
-   paused=false;
-   if($('pauseBtn')) $('pauseBtn').textContent='PAUSE';
-   $('submitBtn')?.classList.remove('submitDisabled');
+   return '';
  }
 }
+
+async function validateWikipedia(name){
+  const auto = document.getElementById('autoValidate');
+  if(auto && !auto.checked){
+    setValidation('', 'Auto validation is off.', 'Players decide validity manually.');
+    return {valid:true, skipped:true};
+  }
+
+  const cat=selectedCategory();
+  setValidation('checking', '🔍 Checking Wikipedia...', cat==='Any Famous Person'?name:name+' • '+cat);
+  paused = true;
+  $('pauseBtn').textContent='RESUME';
+  $('submitBtn').classList.add('submitDisabled');
+
+  try{
+    const summaryUrl='https://en.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(name);
+    let res=await fetch(summaryUrl, {headers:{'Accept':'application/json'}});
+    if(res.ok){
+      const data=await res.json();
+      if(data && data.title && data.type !== 'disambiguation'){
+        data.categoriesText=await fetchWikiCategories(data.title);
+        const match=categoryMatchesWikipedia(data);
+        if(!match.ok){
+          setValidation('invalid', '❌ Wrong category', data.title+' was found, but Wikipedia does not appear to classify it as '+match.cat+'.');
+          return {valid:false, reason:'Wrong category'};
+        }
+        const detail=(data.description || data.extract || 'Wikipedia page found.');
+        setValidation('valid', '✅ Valid: '+data.title, detail, data.content_urls && data.content_urls.desktop ? data.content_urls.desktop.page : '');
+        return {valid:true, title:data.title, description:detail, photo:data.thumbnail&&data.thumbnail.source?data.thumbnail.source:''};
+      }
+    }
+
+    const searchUrl='https://en.wikipedia.org/w/api.php?action=query&origin=*&format=json&generator=search&gsrsearch='+encodeURIComponent(name)+'&gsrlimit=3&prop=pageprops|description|info&inprop=url';
+    res=await fetch(searchUrl);
+    const data=await res.json();
+    const pages=data && data.query && data.query.pages ? Object.values(data.query.pages) : [];
+    const exact=pages.find(p => (p.title||'').toLowerCase() === name.toLowerCase());
+    const best=exact || pages[0];
+
+    if(best && best.title){
+      best.extract='';
+      best.categoriesText=await fetchWikiCategories(best.title);
+      const match=categoryMatchesWikipedia(best);
+      if(!match.ok){
+        setValidation('invalid', '❌ Wrong category', best.title+' was found, but Wikipedia does not appear to classify it as '+match.cat+'.');
+        return {valid:false, reason:'Wrong category'};
+      }
+      setValidation('valid', '✅ Valid: '+best.title, best.description || 'Wikipedia search result found.', best.fullurl || '');
+      return {valid:true, title:best.title, description:best.description || '', photo:''};
+    }
+
+    setValidation('invalid', '❌ Invalid', 'No Wikipedia match found for "'+name+'".');
+    return {valid:false, reason:'No Wikipedia match found'};
+  }catch(e){
+    setValidation('invalid', '❌ Wikipedia check failed', 'The request was blocked or the internet connection failed. Try hosting the file or turn off Auto Validate.');
+    return {valid:false, reason:'Wikipedia request failed'};
+  }finally{
+    paused = false;
+    $('pauseBtn').textContent='PAUSE';
+    $('submitBtn').classList.remove('submitDisabled');
+  }
+}
+
 
 async function submitAnswer(turnId=activeTurnId){
  if(!gameActive || turnId!==activeTurnId)return;
@@ -572,7 +760,7 @@ function celebrityCell(item){
  const media=img
    ? `<img class="celebPhoto" src="${img}" alt="${item.celebrity||'photo'}" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;celebPhoto placeholder&quot;>?</div>'">`
    : `<div class="celebPhoto placeholder">${fallback.toUpperCase()}</div>`;
- return `<div class="celebCell">${media}<div class="celebText"><div>${nameHtml}</div>${desc?`<div class="celebSub">${desc}</div>`:''}</div></div>`;
+ return `<div class="celebCell">${media}<div class="celebText"><div>${nameHtml}</div></div></div>`;
 }
 
 function highlightName(info){
@@ -657,7 +845,9 @@ document.getElementById('launchGameBtn').onclick=()=>{
  const shuffled=[...aiPool].sort(()=>Math.random()-0.5);
  for(let i=0;i<aiCount;i++) names.push('[AI]['+rollAIDifficulty()+'] '+shuffled[i]);
  document.getElementById('namesInput').value=names.join('\n');
- document.getElementById('categoryPreset').value=document.getElementById('startCategory').value;
+ const chosenCat=document.getElementById('startCategory').value;
+ document.getElementById('categoryPreset').value=chosenCat;
+ gameCategory=chosenCat;
  document.getElementById('startScreen').style.display='none';
  startGame();
 };
