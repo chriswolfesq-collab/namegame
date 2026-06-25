@@ -56,7 +56,8 @@
     font-family:Arial,sans-serif;font-weight:1000;font-size:30px;color:var(--muted)
   }
   .celebText{display:flex;flex-direction:column;gap:4px}
-  
+  .celebSub{font-family:Arial,sans-serif;font-size:13px;color:var(--muted);font-weight:900;line-height:1.2}
+
   @media(max-width:1100px){.top,.main,.turnHero{grid-template-columns:1fr}.heroTimer{margin:0 auto}.actions{grid-template-columns:1fr 1fr}.tableHeader{display:none}.log{max-height:none}.logRow{grid-template-columns:1fr;gap:8px;padding:16px}.inputArea{grid-template-columns:1fr}.logo h1{font-size:54px}.turnName{font-size:44px}.turnNeed b{font-size:48px}.main{gap:14px}.sidebar{order:2}.game{order:1}.top{gap:12px}.app{padding:12px}}
 
 .startScreen{position:fixed;inset:0;background:radial-gradient(circle at top left,#10223c 0,#050b14 50%,#02050a 100%);display:flex;align-items:center;justify-content:center;z-index:100}
@@ -571,7 +572,7 @@ function celebrityCell(item){
  const media=img
    ? `<img class="celebPhoto" src="${img}" alt="${item.celebrity||'photo'}" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;celebPhoto placeholder&quot;>?</div>'">`
    : `<div class="celebPhoto placeholder">${fallback.toUpperCase()}</div>`;
- return `<div class="celebCell">${media}<div class="celebText"><div>${nameHtml}</div></div></div>`;
+ return `<div class="celebCell">${media}<div class="celebText"><div>${nameHtml}</div>${desc?`<div class="celebSub">${desc}</div>`:''}</div></div>`;
 }
 
 function highlightName(info){
