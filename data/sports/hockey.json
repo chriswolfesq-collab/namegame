@@ -1,0 +1,38 @@
+{
+  "people": [
+    {
+      "id": "wayne-gretzky",
+      "name": "Wayne Gretzky",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Hockey"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "quinn-hughes",
+      "name": "Quinn Hughes",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Hockey"
+      ],
+      "letters": {
+        "first": "Q",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    }
+  ]
+}

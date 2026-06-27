@@ -1,0 +1,324 @@
+{
+  "people": [
+    {
+      "id": "taylor-swift",
+      "name": "Taylor Swift",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "adele-adkins",
+      "name": "Adele Adkins",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "beyonce-knowles",
+      "name": "Beyonce Knowles",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "elvis-presley",
+      "name": "Elvis Presley",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "michael-jackson",
+      "name": "Michael Jackson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "prince-nelson",
+      "name": "Prince Nelson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rihanna-fenty",
+      "name": "Rihanna Fenty",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kanye-west",
+      "name": "Kanye West",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "billy-joel",
+      "name": "Billy Joel",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bob-dylan",
+      "name": "Bob Dylan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "frank-sinatra",
+      "name": "Frank Sinatra",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "freddie-mercury",
+      "name": "Freddie Mercury",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "lady-gaga",
+      "name": "Lady Gaga",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "drake-graham",
+      "name": "Drake Graham",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "eminem-mathers",
+      "name": "Eminem Mathers",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ariana-grande",
+      "name": "Ariana Grande",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "elton-john",
+      "name": "Elton John",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "paul-mccartney",
+      "name": "Paul McCartney",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "whitney-houston",
+      "name": "Whitney Houston",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "madonna-ciccone",
+      "name": "Madonna Ciccone",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Musicians"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    }
+  ]
+}

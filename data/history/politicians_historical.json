@@ -1,0 +1,228 @@
+{
+  "people": [
+    {
+      "id": "barack-obama",
+      "name": "Barack Obama",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "george-washington",
+      "name": "George Washington",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hillary-clinton",
+      "name": "Hillary Clinton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nancy-pelosi",
+      "name": "Nancy Pelosi",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "winston-churchill",
+      "name": "Winston Churchill",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ulysses-grant",
+      "name": "Ulysses Grant",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "U",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "alexander-hamilton",
+      "name": "Alexander Hamilton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "albert-einstein",
+      "name": "Albert Einstein",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "isaac-newton",
+      "name": "Isaac Newton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "I",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "neil-armstrong",
+      "name": "Neil Armstrong",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rosa-parks",
+      "name": "Rosa Parks",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "william-shakespeare",
+      "name": "William Shakespeare",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "frida-kahlo",
+      "name": "Frida Kahlo",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "vladimir-putin",
+      "name": "Vladimir Putin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    }
+  ]
+}

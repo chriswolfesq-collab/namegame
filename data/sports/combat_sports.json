@@ -1,0 +1,55 @@
+{
+  "people": [
+    {
+      "id": "muhammad-ali",
+      "name": "Muhammad Ali",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "floyd-mayweather",
+      "name": "Floyd Mayweather",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-cena",
+      "name": "John Cena",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    }
+  ]
+}
