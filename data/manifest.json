@@ -42,6 +42,11 @@
       "label": "Combat Sports"
     },
     {
+      "key": "golf",
+      "path": "data/sports/golf.json",
+      "label": "Golf"
+    },
+    {
       "key": "olympics_track",
       "path": "data/sports/olympics_track.json",
       "label": "Olympics / Track & Field"

@@ -127,6 +127,4502 @@
       "difficulty": 2,
       "image": null,
       "wiki": null
+    },
+    {
+      "id": "daffy-duck",
+      "name": "Daffy Duck",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "homer-simpson",
+      "name": "Homer Simpson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bart-simpson",
+      "name": "Bart Simpson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "peter-griffin",
+      "name": "Peter Griffin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "spongebob-squarepants",
+      "name": "SpongeBob SquarePants",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "popeye-sailor",
+      "name": "Popeye Sailor",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "woody-woodpecker",
+      "name": "Woody Woodpecker",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "fred-flintstone",
+      "name": "Fred Flintstone",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "scooby-doo",
+      "name": "Scooby Doo",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tom-cat",
+      "name": "Tom Cat",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jerry-mouse",
+      "name": "Jerry Mouse",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "wile-e-coyote",
+      "name": "Wile E Coyote",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "road-runner-bird",
+      "name": "Road Runner Bird",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "yogi-bear",
+      "name": "Yogi Bear",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "Y",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "charlie-brown",
+      "name": "Charlie Brown",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "snoopy-dog",
+      "name": "Snoopy Dog",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "garfield-cat",
+      "name": "Garfield Cat",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "winnie-the-pooh",
+      "name": "Winnie the Pooh",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tigger-tiger",
+      "name": "Tigger Tiger",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "peter-pan",
+      "name": "Peter Pan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "alice-wonderland",
+      "name": "Alice Wonderland",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "snow-white",
+      "name": "Snow White",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cinderella-princess",
+      "name": "Cinderella Princess",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sleeping-beauty",
+      "name": "Sleeping Beauty",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "belle-princess",
+      "name": "Belle Princess",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ariel-mermaid",
+      "name": "Ariel Mermaid",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jasmine-princess",
+      "name": "Jasmine Princess",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mulan-warrior",
+      "name": "Mulan Warrior",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "elsa-frozen",
+      "name": "Elsa Frozen",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "anna-frozen",
+      "name": "Anna Frozen",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "simba-lion",
+      "name": "Simba Lion",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "aladdin-prince",
+      "name": "Aladdin Prince",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "buzz-lightyear",
+      "name": "Buzz Lightyear",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "woody-pride",
+      "name": "Woody Pride",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "shrek-ogre",
+      "name": "Shrek Ogre",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "donkey-talking",
+      "name": "Donkey Talking",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "puss-boots",
+      "name": "Puss Boots",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hermione-granger",
+      "name": "Hermione Granger",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ron-weasley",
+      "name": "Ron Weasley",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "albus-dumbledore",
+      "name": "Albus Dumbledore",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "severus-snape",
+      "name": "Severus Snape",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "frodo-baggins",
+      "name": "Frodo Baggins",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gandalf-grey",
+      "name": "Gandalf Grey",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "aragorn-elessar",
+      "name": "Aragorn Elessar",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "legolas-greenleaf",
+      "name": "Legolas Greenleaf",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gollum-smeagol",
+      "name": "Gollum Smeagol",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "han-solo",
+      "name": "Han Solo",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "princess-leia",
+      "name": "Princess Leia",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "darth-vader",
+      "name": "Darth Vader",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "obi-wan-kenobi",
+      "name": "Obi-Wan Kenobi",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "yoda-master",
+      "name": "Yoda Master",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "Y",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "chewbacca-wookiee",
+      "name": "Chewbacca Wookiee",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jason-bourne",
+      "name": "Jason Bourne",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "indiana-jones",
+      "name": "Indiana Jones",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "I",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ethan-hunt",
+      "name": "Ethan Hunt",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-mcclane",
+      "name": "John McClane",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rocky-balboa",
+      "name": "Rocky Balboa",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-rambo",
+      "name": "John Rambo",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "terminator-robot",
+      "name": "Terminator Robot",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "robocop-murphy",
+      "name": "RoboCop Murphy",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "batman-wayne",
+      "name": "Batman Wayne",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "superman-kent",
+      "name": "Superman Kent",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "spider-man-parker",
+      "name": "Spider-Man Parker",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "iron-man-stark",
+      "name": "Iron Man Stark",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "I",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "captain-america",
+      "name": "Captain America",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "thor-odinson",
+      "name": "Thor Odinson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hulk-banner",
+      "name": "Hulk Banner",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "black-widow-romanoff",
+      "name": "Black Widow Romanoff",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "wonder-woman-prince",
+      "name": "Wonder Woman Prince",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "the-flash-allen",
+      "name": "The Flash Allen",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "green-lantern-jordan",
+      "name": "Green Lantern Jordan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "aquaman-curry",
+      "name": "Aquaman Curry",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "wolverine-logan",
+      "name": "Wolverine Logan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "deadpool-wilson",
+      "name": "Deadpool Wilson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "joker-clown",
+      "name": "Joker Clown",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "lex-luthor",
+      "name": "Lex Luthor",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "darth-maul",
+      "name": "Darth Maul",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "voldemort-riddle",
+      "name": "Voldemort Riddle",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sauron-dark",
+      "name": "Sauron Dark",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "freddy-krueger",
+      "name": "Freddy Krueger",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jason-voorhees",
+      "name": "Jason Voorhees",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "michael-myers",
+      "name": "Michael Myers",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hannibal-lecter",
+      "name": "Hannibal Lecter",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "norman-bates",
+      "name": "Norman Bates",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dracula-count",
+      "name": "Dracula Count",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "frankenstein-monster",
+      "name": "Frankenstein Monster",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sherlock-holmes",
+      "name": "Sherlock Holmes",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "doctor-watson",
+      "name": "Doctor Watson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hercule-poirot",
+      "name": "Hercule Poirot",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "miss-marple",
+      "name": "Miss Marple",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nancy-drew",
+      "name": "Nancy Drew",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tarzan-ape",
+      "name": "Tarzan Ape",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "zorro-masked",
+      "name": "Zorro Masked",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "Z",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "robin-hood",
+      "name": "Robin Hood",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "little-red-riding-hood",
+      "name": "Little Red Riding Hood",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jack-beanstalk",
+      "name": "Jack Beanstalk",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "pinocchio-puppet",
+      "name": "Pinocchio Puppet",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "peter-rabbit",
+      "name": "Peter Rabbit",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "winnie-pooh",
+      "name": "Winnie Pooh",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "paddington-bear",
+      "name": "Paddington Bear",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mary-poppins",
+      "name": "Mary Poppins",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "willy-wonka",
+      "name": "Willy Wonka",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "charlie-bucket",
+      "name": "Charlie Bucket",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "matilda-wormwood",
+      "name": "Matilda Wormwood",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "james-giant",
+      "name": "James Giant",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gonzo-muppet",
+      "name": "Gonzo Muppet",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kermit-frog",
+      "name": "Kermit Frog",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "miss-piggy",
+      "name": "Miss Piggy",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "fozzie-bear",
+      "name": "Fozzie Bear",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "big-bird-sesame",
+      "name": "Big Bird Sesame",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "elmo-muppet",
+      "name": "Elmo Muppet",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cookie-monster",
+      "name": "Cookie Monster",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "oscar-grouch",
+      "name": "Oscar Grouch",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bert-sesame",
+      "name": "Bert Sesame",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ernie-sesame",
+      "name": "Ernie Sesame",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "optimus-prime",
+      "name": "Optimus Prime",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bumblebee-autobot",
+      "name": "Bumblebee Autobot",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "megatron-decepticon",
+      "name": "Megatron Decepticon",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "he-man-warrior",
+      "name": "He-Man Warrior",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "skeletor-villain",
+      "name": "Skeletor Villain",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "she-ra-princess",
+      "name": "She-Ra Princess",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gi-joe",
+      "name": "GI Joe",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cobra-commander",
+      "name": "Cobra Commander",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "master-chief-spartan",
+      "name": "Master Chief Spartan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "lara-croft",
+      "name": "Lara Croft",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mario-plumber",
+      "name": "Mario Plumber",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "luigi-plumber",
+      "name": "Luigi Plumber",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "princess-peach",
+      "name": "Princess Peach",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bowser-koopa",
+      "name": "Bowser Koopa",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "link-hero",
+      "name": "Link Hero",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "zelda-princess",
+      "name": "Zelda Princess",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "Z",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sonic-hedgehog",
+      "name": "Sonic Hedgehog",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "pikachu-pokemon",
+      "name": "Pikachu Pokemon",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ash-ketchum",
+      "name": "Ash Ketchum",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "naruto-uzumaki",
+      "name": "Naruto Uzumaki",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "U"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "goku-saiyan",
+      "name": "Goku Saiyan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "vegeta-prince",
+      "name": "Vegeta Prince",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "luffy-straw",
+      "name": "Luffy Straw",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sailor-moon",
+      "name": "Sailor Moon",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "astro-boy",
+      "name": "Astro Boy",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "speed-racer",
+      "name": "Speed Racer",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "inspector-gadget",
+      "name": "Inspector Gadget",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "I",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bender-robot",
+      "name": "Bender Robot",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rick-sanchez",
+      "name": "Rick Sanchez",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "morty-smith",
+      "name": "Morty Smith",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "stewie-griffin",
+      "name": "Stewie Griffin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "lois-griffin",
+      "name": "Lois Griffin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "marge-simpson",
+      "name": "Marge Simpson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "lisa-simpson",
+      "name": "Lisa Simpson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "walter-white",
+      "name": "Walter White",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tony-soprano",
+      "name": "Tony Soprano",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "don-draper",
+      "name": "Don Draper",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "michael-scott",
+      "name": "Michael Scott",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dwight-schrute",
+      "name": "Dwight Schrute",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jack-sparrow",
+      "name": "Jack Sparrow",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "will-turner",
+      "name": "Will Turner",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "elizabeth-swann",
+      "name": "Elizabeth Swann",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "captain-hook",
+      "name": "Captain Hook",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "peter-quill",
+      "name": "Peter Quill",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "Q"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rocket-raccoon",
+      "name": "Rocket Raccoon",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "groot-tree",
+      "name": "Groot Tree",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "star-lord-quill",
+      "name": "Star-Lord Quill",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "Q"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "doctor-strange",
+      "name": "Doctor Strange",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "black-panther",
+      "name": "Black Panther",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "wanda-maximoff",
+      "name": "Wanda Maximoff",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "vision-android",
+      "name": "Vision Android",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ant-man-lang",
+      "name": "Ant-Man Lang",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hawkeye-barton",
+      "name": "Hawkeye Barton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nick-fury",
+      "name": "Nick Fury",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "professor-xavier",
+      "name": "Professor Xavier",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "X"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "magneto-lehnsherr",
+      "name": "Magneto Lehnsherr",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cyclops-summers",
+      "name": "Cyclops Summers",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jean-grey",
+      "name": "Jean Grey",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "storm-munroe",
+      "name": "Storm Munroe",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "beast-mccoy",
+      "name": "Beast McCoy",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rogue-anna",
+      "name": "Rogue Anna",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gambit-lebeau",
+      "name": "Gambit LeBeau",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nightcrawler-wagner",
+      "name": "Nightcrawler Wagner",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "colossus-rasputin",
+      "name": "Colossus Rasputin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "punisher-castle",
+      "name": "Punisher Castle",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "daredevil-murdock",
+      "name": "Daredevil Murdock",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "elektra-natchios",
+      "name": "Elektra Natchios",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kingpin-fisk",
+      "name": "Kingpin Fisk",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "green-goblin-osborn",
+      "name": "Green Goblin Osborn",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "doctor-octopus",
+      "name": "Doctor Octopus",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "venom-brock",
+      "name": "Venom Brock",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mary-jane-watson",
+      "name": "Mary Jane Watson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gwen-stacy",
+      "name": "Gwen Stacy",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "aunt-may-parker",
+      "name": "Aunt May Parker",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "uncle-ben-parker",
+      "name": "Uncle Ben Parker",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "U",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "alfred-pennyworth",
+      "name": "Alfred Pennyworth",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "commissioner-gordon",
+      "name": "Commissioner Gordon",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "harvey-dent",
+      "name": "Harvey Dent",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "catwoman-kyle",
+      "name": "Catwoman Kyle",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "poison-ivy",
+      "name": "Poison Ivy",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "I"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "harley-quinn",
+      "name": "Harley Quinn",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "Q"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bane-villain",
+      "name": "Bane Villain",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ra-s-al-ghul",
+      "name": "Ra's al Ghul",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "two-face-dent",
+      "name": "Two-Face Dent",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "riddler-nygma",
+      "name": "Riddler Nygma",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "penguin-cobblepot",
+      "name": "Penguin Cobblepot",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "scarecrow-crane",
+      "name": "Scarecrow Crane",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "robin-grayson",
+      "name": "Robin Grayson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nightwing-grayson",
+      "name": "Nightwing Grayson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "batgirl-gordon",
+      "name": "Batgirl Gordon",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "lois-lane",
+      "name": "Lois Lane",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jimmy-olsen",
+      "name": "Jimmy Olsen",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "perry-white",
+      "name": "Perry White",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "general-zod",
+      "name": "General Zod",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "Z"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "doomsday-monster",
+      "name": "Doomsday Monster",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "braniac-villain",
+      "name": "Braniac Villain",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bizarro-clone",
+      "name": "Bizarro Clone",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "martian-manhunter",
+      "name": "Martian Manhunter",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cyborg-stone",
+      "name": "Cyborg Stone",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "shazam-batson",
+      "name": "Shazam Batson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "billy-batson",
+      "name": "Billy Batson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "green-arrow-queen",
+      "name": "Green Arrow Queen",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "Q"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "black-canary-lance",
+      "name": "Black Canary Lance",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "zatanna-zatara",
+      "name": "Zatanna Zatara",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "Z",
+        "last": "Z"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "constantine-john",
+      "name": "Constantine John",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "swamp-thing",
+      "name": "Swamp Thing",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hellboy-demon",
+      "name": "Hellboy Demon",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "spawn-simmons",
+      "name": "Spawn Simmons",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "judge-dredd",
+      "name": "Judge Dredd",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rorschach-kovacs",
+      "name": "Rorschach Kovacs",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "the-comedian",
+      "name": "The Comedian",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "doctor-manhattan",
+      "name": "Doctor Manhattan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "silk-spectre",
+      "name": "Silk Spectre",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ozymandias-veidt",
+      "name": "Ozymandias Veidt",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "watchmen-group",
+      "name": "Watchmen Group",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "v-vendetta",
+      "name": "V Vendetta",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "alan-moore-character",
+      "name": "Alan Moore Character",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-constantine",
+      "name": "John Constantine",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "wednesday-addams",
+      "name": "Wednesday Addams",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gomez-addams",
+      "name": "Gomez Addams",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "morticia-addams",
+      "name": "Morticia Addams",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "pugsley-addams",
+      "name": "Pugsley Addams",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "lurch-butler",
+      "name": "Lurch Butler",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "the-grinch",
+      "name": "The Grinch",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cindy-lou",
+      "name": "Cindy Lou",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jack-skellington",
+      "name": "Jack Skellington",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sally-ragdoll",
+      "name": "Sally Ragdoll",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "oogie-boogie",
+      "name": "Oogie Boogie",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "edward-scissorhands",
+      "name": "Edward Scissorhands",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "beetlejuice-ghost",
+      "name": "Beetlejuice Ghost",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "willy-wonka-chocolate",
+      "name": "Willy Wonka Chocolate",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "veruca-salt",
+      "name": "Veruca Salt",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "augustus-gloop",
+      "name": "Augustus Gloop",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "violet-beauregarde",
+      "name": "Violet Beauregarde",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mike-teavee",
+      "name": "Mike Teavee",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "grandpa-joe",
+      "name": "Grandpa Joe",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "fantastic-mr-fox",
+      "name": "Fantastic Mr Fox",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mrs-fox",
+      "name": "Mrs Fox",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "james-bond-villain",
+      "name": "James Bond Villain",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "blofeld-ernst",
+      "name": "Blofeld Ernst",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "goldfinger-auric",
+      "name": "Goldfinger Auric",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jaws-villain",
+      "name": "Jaws Villain",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "oddjob-henchman",
+      "name": "Oddjob Henchman",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "doctor-no",
+      "name": "Doctor No",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "scaramanga-francisco",
+      "name": "Scaramanga Francisco",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rosa-klebb",
+      "name": "Rosa Klebb",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "miss-moneypenny",
+      "name": "Miss Moneypenny",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "q-branch",
+      "name": "Q Branch",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "Q",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "m-character",
+      "name": "M Character",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "felix-leiter",
+      "name": "Felix Leiter",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "vesper-lynd",
+      "name": "Vesper Lynd",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "pussy-galore",
+      "name": "Pussy Galore",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "honey-ryder",
+      "name": "Honey Ryder",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ferris-bueller",
+      "name": "Ferris Bueller",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cameron-frye",
+      "name": "Cameron Frye",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sloane-peterson",
+      "name": "Sloane Peterson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "marty-mcfly",
+      "name": "Marty McFly",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "doc-brown",
+      "name": "Doc Brown",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "biff-tannen",
+      "name": "Biff Tannen",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jennifer-parker",
+      "name": "Jennifer Parker",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "axel-foley",
+      "name": "Axel Foley",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "apollo-creed",
+      "name": "Apollo Creed",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "clubber-lang",
+      "name": "Clubber Lang",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ivan-drago",
+      "name": "Ivan Drago",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "I",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mickey-goldmill",
+      "name": "Mickey Goldmill",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "paulie-pennino",
+      "name": "Paulie Pennino",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
     }
   ]
 }

@@ -152,6 +152,4171 @@
       "difficulty": 2,
       "image": null,
       "wiki": null
+    },
+    {
+      "id": "kareem-abdul-jabbar",
+      "name": "Kareem Abdul-Jabbar",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "wilt-chamberlain",
+      "name": "Wilt Chamberlain",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tim-duncan",
+      "name": "Tim Duncan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "james-harden",
+      "name": "James Harden",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "russell-westbrook",
+      "name": "Russell Westbrook",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "chris-paul",
+      "name": "Chris Paul",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kawhi-leonard",
+      "name": "Kawhi Leonard",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "giannis-antetokounmpo",
+      "name": "Giannis Antetokounmpo",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nikola-jokic",
+      "name": "Nikola Jokic",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "joel-embiid",
+      "name": "Joel Embiid",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "luka-doncic",
+      "name": "Luka Doncic",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "damian-lillard",
+      "name": "Damian Lillard",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "anthony-davis",
+      "name": "Anthony Davis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kyrie-irving",
+      "name": "Kyrie Irving",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "I"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "klay-thompson",
+      "name": "Klay Thompson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "draymond-green",
+      "name": "Draymond Green",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dwyane-wade",
+      "name": "Dwyane Wade",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "carmelo-anthony",
+      "name": "Carmelo Anthony",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dirk-nowitzki",
+      "name": "Dirk Nowitzki",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "steve-nash",
+      "name": "Steve Nash",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "allen-iverson",
+      "name": "Allen Iverson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "I"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "vince-carter",
+      "name": "Vince Carter",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tracy-mcgrady",
+      "name": "Tracy McGrady",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "paul-pierce",
+      "name": "Paul Pierce",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ray-allen",
+      "name": "Ray Allen",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "manu-ginobili",
+      "name": "Manu Ginobili",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tony-parker",
+      "name": "Tony Parker",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "pau-gasol",
+      "name": "Pau Gasol",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dwight-howard",
+      "name": "Dwight Howard",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "chris-bosh",
+      "name": "Chris Bosh",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "amare-stoudemire",
+      "name": "Amare Stoudemire",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jason-kidd",
+      "name": "Jason Kidd",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "grant-hill",
+      "name": "Grant Hill",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "reggie-miller",
+      "name": "Reggie Miller",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gary-payton",
+      "name": "Gary Payton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-stockton",
+      "name": "John Stockton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "karl-malone",
+      "name": "Karl Malone",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "charles-barkley",
+      "name": "Charles Barkley",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "patrick-ewing",
+      "name": "Patrick Ewing",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hakeem-olajuwon",
+      "name": "Hakeem Olajuwon",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "david-robinson",
+      "name": "David Robinson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "isiah-thomas",
+      "name": "Isiah Thomas",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "I",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dennis-rodman",
+      "name": "Dennis Rodman",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "scottie-pippen",
+      "name": "Scottie Pippen",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "clyde-drexler",
+      "name": "Clyde Drexler",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "george-gervin",
+      "name": "George Gervin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "julius-erving",
+      "name": "Julius Erving",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "moses-malone",
+      "name": "Moses Malone",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "elgin-baylor",
+      "name": "Elgin Baylor",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "oscar-robertson",
+      "name": "Oscar Robertson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jerry-west",
+      "name": "Jerry West",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bob-cousy",
+      "name": "Bob Cousy",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-havlicek",
+      "name": "John Havlicek",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rick-barry",
+      "name": "Rick Barry",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "pete-maravich",
+      "name": "Pete Maravich",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "walt-frazier",
+      "name": "Walt Frazier",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nate-archibald",
+      "name": "Nate Archibald",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "willis-reed",
+      "name": "Willis Reed",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dave-cowens",
+      "name": "Dave Cowens",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bill-walton",
+      "name": "Bill Walton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "james-worthy",
+      "name": "James Worthy",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "robert-parish",
+      "name": "Robert Parish",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kevin-mchale",
+      "name": "Kevin McHale",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dominique-wilkins",
+      "name": "Dominique Wilkins",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "alex-english",
+      "name": "Alex English",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "adrian-dantley",
+      "name": "Adrian Dantley",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bernard-king",
+      "name": "Bernard King",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "world-b-free",
+      "name": "World B Free",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sidney-moncrief",
+      "name": "Sidney Moncrief",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mark-aguirre",
+      "name": "Mark Aguirre",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jack-sikma",
+      "name": "Jack Sikma",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "artis-gilmore",
+      "name": "Artis Gilmore",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bob-lanier",
+      "name": "Bob Lanier",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nate-thurmond",
+      "name": "Nate Thurmond",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "wes-unseld",
+      "name": "Wes Unseld",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "U"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dave-bing",
+      "name": "Dave Bing",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "earl-monroe",
+      "name": "Earl Monroe",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "connie-hawkins",
+      "name": "Connie Hawkins",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "spencer-haywood",
+      "name": "Spencer Haywood",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bob-mcadoo",
+      "name": "Bob McAdoo",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "alonzo-mourning",
+      "name": "Alonzo Mourning",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gary-trent",
+      "name": "Gary Trent",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "steve-francis",
+      "name": "Steve Francis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "baron-davis",
+      "name": "Baron Davis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jason-williams",
+      "name": "Jason Williams",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "stephon-marbury",
+      "name": "Stephon Marbury",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tracy-murray",
+      "name": "Tracy Murray",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "antawn-jamison",
+      "name": "Antawn Jamison",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "shawn-marion",
+      "name": "Shawn Marion",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rasheed-wallace",
+      "name": "Rasheed Wallace",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ben-wallace",
+      "name": "Ben Wallace",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "chauncey-billups",
+      "name": "Chauncey Billups",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "richard-hamilton",
+      "name": "Richard Hamilton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rip-hamilton",
+      "name": "Rip Hamilton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "andre-iguodala",
+      "name": "Andre Iguodala",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "I"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "luol-deng",
+      "name": "Luol Deng",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "derrick-rose",
+      "name": "Derrick Rose",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "joakim-noah",
+      "name": "Joakim Noah",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "blake-griffin",
+      "name": "Blake Griffin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "deandre-jordan",
+      "name": "DeAndre Jordan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "zach-randolph",
+      "name": "Zach Randolph",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "Z",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "marc-gasol",
+      "name": "Marc Gasol",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mike-conley",
+      "name": "Mike Conley",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rudy-gay",
+      "name": "Rudy Gay",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "oj-mayo",
+      "name": "OJ Mayo",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-wall",
+      "name": "John Wall",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bradley-beal",
+      "name": "Bradley Beal",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kemba-walker",
+      "name": "Kemba Walker",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "demar-derozan",
+      "name": "DeMar DeRozan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kyle-lowry",
+      "name": "Kyle Lowry",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jrue-holiday",
+      "name": "Jrue Holiday",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "paul-george",
+      "name": "Paul George",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jimmy-butler",
+      "name": "Jimmy Butler",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "andrew-wiggins",
+      "name": "Andrew Wiggins",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ben-simmons",
+      "name": "Ben Simmons",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "trae-young",
+      "name": "Trae Young",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "Y"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "zion-williamson",
+      "name": "Zion Williamson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "Z",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ja-morant",
+      "name": "Ja Morant",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "devin-booker",
+      "name": "Devin Booker",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "donovan-mitchell",
+      "name": "Donovan Mitchell",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jayson-tatum",
+      "name": "Jayson Tatum",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jaylen-brown",
+      "name": "Jaylen Brown",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bam-adebayo",
+      "name": "Bam Adebayo",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "domantas-sabonis",
+      "name": "Domantas Sabonis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rudy-gobert",
+      "name": "Rudy Gobert",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "karl-anthony-towns",
+      "name": "Karl-Anthony Towns",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "deaaron-fox",
+      "name": "DeAaron Fox",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "fred-vanvleet",
+      "name": "Fred VanVleet",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "pascal-siakam",
+      "name": "Pascal Siakam",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jamal-murray",
+      "name": "Jamal Murray",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "anthony-edwards",
+      "name": "Anthony Edwards",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "shai-gilgeous-alexander",
+      "name": "Shai Gilgeous-Alexander",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tyrese-haliburton",
+      "name": "Tyrese Haliburton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "victor-wembanyama",
+      "name": "Victor Wembanyama",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "brook-lopez",
+      "name": "Brook Lopez",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "robin-lopez",
+      "name": "Robin Lopez",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "deron-williams",
+      "name": "Deron Williams",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "al-horford",
+      "name": "Al Horford",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jeff-teague",
+      "name": "Jeff Teague",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "danny-green",
+      "name": "Danny Green",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "pj-tucker",
+      "name": "PJ Tucker",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nicolas-batum",
+      "name": "Nicolas Batum",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "boris-diaw",
+      "name": "Boris Diaw",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tony-allen",
+      "name": "Tony Allen",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "metta-world-peace",
+      "name": "Metta World Peace",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "lamar-odom",
+      "name": "Lamar Odom",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "andrew-bynum",
+      "name": "Andrew Bynum",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "danny-granger",
+      "name": "Danny Granger",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "andre-miller",
+      "name": "Andre Miller",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "elton-brand",
+      "name": "Elton Brand",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "corey-maggette",
+      "name": "Corey Maggette",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jermaine-oneal",
+      "name": "Jermaine ONeal",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "antoine-walker",
+      "name": "Antoine Walker",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kevin-garnett",
+      "name": "Kevin Garnett",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "chris-webber",
+      "name": "Chris Webber",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jason-terry",
+      "name": "Jason Terry",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "peja-stojakovic",
+      "name": "Peja Stojakovic",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "vlade-divac",
+      "name": "Vlade Divac",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dikembe-mutombo",
+      "name": "Dikembe Mutombo",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "toni-kukoc",
+      "name": "Toni Kukoc",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "drazen-petrovic",
+      "name": "Drazen Petrovic",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "arvydas-sabonis",
+      "name": "Arvydas Sabonis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "yao-ming",
+      "name": "Yao Ming",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "Y",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "goran-dragic",
+      "name": "Goran Dragic",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nikola-vucevic",
+      "name": "Nikola Vucevic",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bojan-bogdanovic",
+      "name": "Bojan Bogdanovic",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "danilo-gallinari",
+      "name": "Danilo Gallinari",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "marco-belinelli",
+      "name": "Marco Belinelli",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kristaps-porzingis",
+      "name": "Kristaps Porzingis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "thanasis-antetokounmpo",
+      "name": "Thanasis Antetokounmpo",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "evan-fournier",
+      "name": "Evan Fournier",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ricky-rubio",
+      "name": "Ricky Rubio",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "serge-ibaka",
+      "name": "Serge Ibaka",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "I"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "al-jefferson",
+      "name": "Al Jefferson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "andray-blatche",
+      "name": "Andray Blatche",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "josh-smith",
+      "name": "Josh Smith",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "demarcus-cousins",
+      "name": "DeMarcus Cousins",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kenneth-faried",
+      "name": "Kenneth Faried",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kentavious-caldwell-pope",
+      "name": "Kentavious Caldwell-Pope",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "harrison-barnes",
+      "name": "Harrison Barnes",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "javale-mcgee",
+      "name": "JaVale McGee",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "andre-drummond",
+      "name": "Andre Drummond",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hassan-whiteside",
+      "name": "Hassan Whiteside",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "marcin-gortat",
+      "name": "Marcin Gortat",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nikola-mirotic",
+      "name": "Nikola Mirotic",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "marvin-bagley",
+      "name": "Marvin Bagley",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jaren-jackson",
+      "name": "Jaren Jackson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "de-aaron-fox",
+      "name": "De Aaron Fox",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "buddy-hield",
+      "name": "Buddy Hield",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "malik-monk",
+      "name": "Malik Monk",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "terrence-ross",
+      "name": "Terrence Ross",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "norman-powell",
+      "name": "Norman Powell",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "og-anunoby",
+      "name": "OG Anunoby",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jonathan-isaac",
+      "name": "Jonathan Isaac",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "I"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mikal-bridges",
+      "name": "Mikal Bridges",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "michael-porter",
+      "name": "Michael Porter",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "deandre-ayton",
+      "name": "Deandre Ayton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "collin-sexton",
+      "name": "Collin Sexton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "darius-garland",
+      "name": "Darius Garland",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cade-cunningham",
+      "name": "Cade Cunningham",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "evan-mobley",
+      "name": "Evan Mobley",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jalen-green",
+      "name": "Jalen Green",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "scottie-barnes",
+      "name": "Scottie Barnes",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "franz-wagner",
+      "name": "Franz Wagner",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "josh-giddey",
+      "name": "Josh Giddey",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "chet-holmgren",
+      "name": "Chet Holmgren",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "paolo-banchero",
+      "name": "Paolo Banchero",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "brandon-miller",
+      "name": "Brandon Miller",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "anthony-black",
+      "name": "Anthony Black",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "amen-thompson",
+      "name": "Amen Thompson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ausar-thompson",
+      "name": "Ausar Thompson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "wembanyama-victor",
+      "name": "Wembanyama Victor",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kevin-love",
+      "name": "Kevin Love",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "steph-curry",
+      "name": "Steph Curry",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "danny-ainge",
+      "name": "Danny Ainge",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "robert-horry",
+      "name": "Robert Horry",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "steve-kerr",
+      "name": "Steve Kerr",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-paxson",
+      "name": "John Paxson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bill-cartwright",
+      "name": "Bill Cartwright",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "horace-grant",
+      "name": "Horace Grant",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "luc-longley",
+      "name": "Luc Longley",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ron-harper",
+      "name": "Ron Harper",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dennis-scott",
+      "name": "Dennis Scott",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nick-anderson",
+      "name": "Nick Anderson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "anfernee-hardaway",
+      "name": "Anfernee Hardaway",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cedric-ceballos",
+      "name": "Cedric Ceballos",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "latrell-sprewell",
+      "name": "Latrell Sprewell",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tim-hardaway",
+      "name": "Tim Hardaway",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mitch-richmond",
+      "name": "Mitch Richmond",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "chris-mullin",
+      "name": "Chris Mullin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sarunas-marciulionis",
+      "name": "Sarunas Marciulionis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rony-seikaly",
+      "name": "Rony Seikaly",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "alaa-abdelnaby",
+      "name": "Alaa Abdelnaby",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sam-perkins",
+      "name": "Sam Perkins",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "detlef-schrempf",
+      "name": "Detlef Schrempf",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dale-ellis",
+      "name": "Dale Ellis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "terry-cummings",
+      "name": "Terry Cummings",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "xavier-mcdaniel",
+      "name": "Xavier McDaniel",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "X",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ricky-pierce",
+      "name": "Ricky Pierce",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nate-mcmillan",
+      "name": "Nate McMillan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "shawn-kemp",
+      "name": "Shawn Kemp",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "vin-baker",
+      "name": "Vin Baker",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hersey-hawkins",
+      "name": "Hersey Hawkins",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "brent-barry",
+      "name": "Brent Barry",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rashard-lewis",
+      "name": "Rashard Lewis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
     }
   ]
 }

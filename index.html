@@ -7,6 +7,7 @@
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+<a class="dashboard-link" href="https://chriswolfesq-collab.github.io/dashboard/" aria-label="Back to Wolf Games dashboard">Wolf Games</a>
 
 <div class="startScreen" id="startScreen">
   <div class="card startCard">
@@ -76,7 +77,7 @@
       <div class="card playerList"><div class="panelTitle"><span>PLAYERS</span><span>STATUS</span></div><div id="players"></div></div>
       <div class="card directionBox" id="directionBox"><div class="label">TABLE DIRECTION</div><div class="arrow" id="dirArrow">→</div><h2 id="dirText">CLOCKWISE</h2><div class="mode" id="battleText">NORMAL PLAY</div></div>
       <div class="card setup" id="dbStats" style="font-family:Arial,sans-serif"></div>
-      
+
       <div class="card setup" id="setupBox"><h3>SETUP</h3><label>Category Preset</label><select id="categoryPreset"><option>Any Famous Person</option><option>Actors / Actresses</option><option>Athletes</option><option>Baseball</option><option>Football</option><option>Basketball</option><option>Hockey</option><option>Soccer</option><option>Motorsports</option><option>Tennis</option><option>Golf</option><option>Combat Sports</option><option>Olympics / Track & Field</option><option>Musicians</option><option>Fictional Characters</option><option>Politicians / Historical Figures</option><option>Custom</option></select><input class="selectCustom hidden" id="categoryInput" value="Any Famous Person"><label>Players, one per line</label><textarea id="namesInput" class="namesBox">Bob
 Chris
 Jen
@@ -129,13 +130,15 @@ Sarah</textarea><div class="grid2"><div><label>Game Mode</label><div style="padd
 </div>
 
 
+<script src="js/state.js"></script>
+<script src="js/rules.js"></script>
 <script src="js/database.js"></script>
-<script src="js/audio.js"></script>
 <script src="js/wikipedia.js"></script>
+<script src="js/validator.js"></script>
 <script src="js/ai.js"></script>
-<script src="js/reverseBattle.js"></script>
+<script src="js/audio.js"></script>
 <script src="js/ui.js"></script>
-<script src="js/game.js"></script>
+<script src="js/engine.js"></script>
 <script src="js/main.js"></script>
 </body>
 </html>

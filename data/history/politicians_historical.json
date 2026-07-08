@@ -223,6 +223,4902 @@
       "difficulty": 2,
       "image": null,
       "wiki": null
+    },
+    {
+      "id": "thomas-jefferson",
+      "name": "Thomas Jefferson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "abraham-lincoln",
+      "name": "Abraham Lincoln",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "theodore-roosevelt",
+      "name": "Theodore Roosevelt",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "franklin-roosevelt",
+      "name": "Franklin Roosevelt",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-kennedy",
+      "name": "John Kennedy",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ronald-reagan",
+      "name": "Ronald Reagan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bill-clinton",
+      "name": "Bill Clinton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jimmy-carter",
+      "name": "Jimmy Carter",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "richard-nixon",
+      "name": "Richard Nixon",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dwight-eisenhower",
+      "name": "Dwight Eisenhower",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "harry-truman",
+      "name": "Harry Truman",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "woodrow-wilson",
+      "name": "Woodrow Wilson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "william-taft",
+      "name": "William Taft",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "grover-cleveland",
+      "name": "Grover Cleveland",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "andrew-jackson",
+      "name": "Andrew Jackson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "james-madison",
+      "name": "James Madison",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "james-monroe",
+      "name": "James Monroe",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-adams",
+      "name": "John Adams",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-quincy-adams",
+      "name": "John Quincy Adams",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "martin-van-buren",
+      "name": "Martin Van Buren",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "william-harrison",
+      "name": "William Harrison",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-tyler",
+      "name": "John Tyler",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "james-polk",
+      "name": "James Polk",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "zachary-taylor",
+      "name": "Zachary Taylor",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "Z",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "millard-fillmore",
+      "name": "Millard Fillmore",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "franklin-pierce",
+      "name": "Franklin Pierce",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "james-buchanan",
+      "name": "James Buchanan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "andrew-johnson",
+      "name": "Andrew Johnson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rutherford-hayes",
+      "name": "Rutherford Hayes",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "james-garfield",
+      "name": "James Garfield",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "chester-arthur",
+      "name": "Chester Arthur",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "benjamin-harrison",
+      "name": "Benjamin Harrison",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "william-mckinley",
+      "name": "William McKinley",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "warren-harding",
+      "name": "Warren Harding",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "calvin-coolidge",
+      "name": "Calvin Coolidge",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "herbert-hoover",
+      "name": "Herbert Hoover",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "lyndon-johnson",
+      "name": "Lyndon Johnson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gerald-ford",
+      "name": "Gerald Ford",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "george-bush",
+      "name": "George Bush",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "george-w-bush",
+      "name": "George W Bush",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "joe-biden",
+      "name": "Joe Biden",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "margaret-thatcher",
+      "name": "Margaret Thatcher",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tony-blair",
+      "name": "Tony Blair",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "david-cameron",
+      "name": "David Cameron",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "theresa-may",
+      "name": "Theresa May",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "boris-johnson",
+      "name": "Boris Johnson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "keir-starmer",
+      "name": "Keir Starmer",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "charles-de-gaulle",
+      "name": "Charles de Gaulle",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "napoleon-bonaparte",
+      "name": "Napoleon Bonaparte",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "otto-von-bismarck",
+      "name": "Otto von Bismarck",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "angela-merkel",
+      "name": "Angela Merkel",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "willy-brandt",
+      "name": "Willy Brandt",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "konrad-adenauer",
+      "name": "Konrad Adenauer",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "vladimir-lenin",
+      "name": "Vladimir Lenin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "joseph-stalin",
+      "name": "Joseph Stalin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mikhail-gorbachev",
+      "name": "Mikhail Gorbachev",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "boris-yeltsin",
+      "name": "Boris Yeltsin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "Y"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nikita-khrushchev",
+      "name": "Nikita Khrushchev",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mao-zedong",
+      "name": "Mao Zedong",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "Z"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "deng-xiaoping",
+      "name": "Deng Xiaoping",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "X"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "xi-jinping",
+      "name": "Xi Jinping",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "X",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "chiang-kai-shek",
+      "name": "Chiang Kai-shek",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mahatma-gandhi",
+      "name": "Mahatma Gandhi",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jawaharlal-nehru",
+      "name": "Jawaharlal Nehru",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "indira-gandhi",
+      "name": "Indira Gandhi",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "I",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nelson-mandela",
+      "name": "Nelson Mandela",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "desmond-tutu",
+      "name": "Desmond Tutu",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kwame-nkrumah",
+      "name": "Kwame Nkrumah",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "julius-nyerere",
+      "name": "Julius Nyerere",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "haile-selassie",
+      "name": "Haile Selassie",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "muammar-gaddafi",
+      "name": "Muammar Gaddafi",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "anwar-sadat",
+      "name": "Anwar Sadat",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gamal-abdel-nasser",
+      "name": "Gamal Abdel Nasser",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "golda-meir",
+      "name": "Golda Meir",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "david-ben-gurion",
+      "name": "David Ben-Gurion",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "yitzhak-rabin",
+      "name": "Yitzhak Rabin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "Y",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "benjamin-netanyahu",
+      "name": "Benjamin Netanyahu",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ayatollah-khomeini",
+      "name": "Ayatollah Khomeini",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "fidel-castro",
+      "name": "Fidel Castro",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "che-guevara",
+      "name": "Che Guevara",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hugo-chavez",
+      "name": "Hugo Chavez",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "simon-bolivar",
+      "name": "Simon Bolivar",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "getulio-vargas",
+      "name": "Getulio Vargas",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "juan-peron",
+      "name": "Juan Peron",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "eva-peron",
+      "name": "Eva Peron",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "salvador-allende",
+      "name": "Salvador Allende",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "augusto-pinochet",
+      "name": "Augusto Pinochet",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "lula-da-silva",
+      "name": "Lula da Silva",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "justin-trudeau",
+      "name": "Justin Trudeau",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "stephen-harper",
+      "name": "Stephen Harper",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jean-chretien",
+      "name": "Jean Chretien",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "pierre-trudeau",
+      "name": "Pierre Trudeau",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-diefenbaker",
+      "name": "John Diefenbaker",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "julia-gillard",
+      "name": "Julia Gillard",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kevin-rudd",
+      "name": "Kevin Rudd",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-howard",
+      "name": "John Howard",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bob-hawke",
+      "name": "Bob Hawke",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "scott-morrison",
+      "name": "Scott Morrison",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "benjamin-franklin",
+      "name": "Benjamin Franklin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "thomas-paine",
+      "name": "Thomas Paine",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "patrick-henry",
+      "name": "Patrick Henry",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "samuel-adams",
+      "name": "Samuel Adams",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-jay",
+      "name": "John Jay",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "aaron-burr",
+      "name": "Aaron Burr",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "daniel-webster",
+      "name": "Daniel Webster",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "henry-clay",
+      "name": "Henry Clay",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-calhoun",
+      "name": "John Calhoun",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "frederick-douglass",
+      "name": "Frederick Douglass",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "susan-b-anthony",
+      "name": "Susan B Anthony",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "elizabeth-cady-stanton",
+      "name": "Elizabeth Cady Stanton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "martin-luther-king",
+      "name": "Martin Luther King",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "malcolm-x-little",
+      "name": "Malcolm X Little",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "booker-washington",
+      "name": "Booker Washington",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "w-e-b-du-bois",
+      "name": "W E B Du Bois",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-lewis",
+      "name": "John Lewis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "thurgood-marshall",
+      "name": "Thurgood Marshall",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ruth-bader-ginsburg",
+      "name": "Ruth Bader Ginsburg",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sandra-day-o-connor",
+      "name": "Sandra Day O'Connor",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sonia-sotomayor",
+      "name": "Sonia Sotomayor",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "colin-powell",
+      "name": "Colin Powell",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "condoleezza-rice",
+      "name": "Condoleezza Rice",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "madeleine-albright",
+      "name": "Madeleine Albright",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kamala-harris",
+      "name": "Kamala Harris",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-mccain",
+      "name": "John McCain",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bernie-sanders",
+      "name": "Bernie Sanders",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "al-gore",
+      "name": "Al Gore",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dan-quayle",
+      "name": "Dan Quayle",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "Q"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dick-cheney",
+      "name": "Dick Cheney",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "charles-darwin",
+      "name": "Charles Darwin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "galileo-galilei",
+      "name": "Galileo Galilei",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nicolaus-copernicus",
+      "name": "Nicolaus Copernicus",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "marie-curie",
+      "name": "Marie Curie",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "alexander-graham-bell",
+      "name": "Alexander Graham Bell",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "thomas-edison",
+      "name": "Thomas Edison",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nikola-tesla",
+      "name": "Nikola Tesla",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "leonardo-da-vinci",
+      "name": "Leonardo da Vinci",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "michelangelo-buonarroti",
+      "name": "Michelangelo Buonarroti",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "johann-goethe",
+      "name": "Johann Goethe",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "wolfgang-mozart",
+      "name": "Wolfgang Mozart",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ludwig-beethoven",
+      "name": "Ludwig Beethoven",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "johann-bach",
+      "name": "Johann Bach",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "confucius-sage",
+      "name": "Confucius Sage",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "aristotle-philosopher",
+      "name": "Aristotle Philosopher",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "plato-philosopher",
+      "name": "Plato Philosopher",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "socrates-philosopher",
+      "name": "Socrates Philosopher",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "julius-caesar",
+      "name": "Julius Caesar",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "alexander-great",
+      "name": "Alexander Great",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cleopatra-queen",
+      "name": "Cleopatra Queen",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "Q"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "genghis-khan",
+      "name": "Genghis Khan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "attila-hun",
+      "name": "Attila Hun",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "charlemagne-emperor",
+      "name": "Charlemagne Emperor",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "queen-victoria",
+      "name": "Queen Victoria",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "Q",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "queen-elizabeth",
+      "name": "Queen Elizabeth",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "Q",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "king-henry",
+      "name": "King Henry",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "catherine-great",
+      "name": "Catherine Great",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "peter-great",
+      "name": "Peter Great",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ivan-terrible",
+      "name": "Ivan Terrible",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "I",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "marco-polo",
+      "name": "Marco Polo",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "christopher-columbus",
+      "name": "Christopher Columbus",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ferdinand-magellan",
+      "name": "Ferdinand Magellan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "vasco-da-gama",
+      "name": "Vasco da Gama",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "amerigo-vespucci",
+      "name": "Amerigo Vespucci",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "buzz-aldrin",
+      "name": "Buzz Aldrin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "yuri-gagarin",
+      "name": "Yuri Gagarin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "Y",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sally-ride",
+      "name": "Sally Ride",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-glenn",
+      "name": "John Glenn",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "amelia-earhart",
+      "name": "Amelia Earhart",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "wright-brothers",
+      "name": "Wright Brothers",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "emmeline-pankhurst",
+      "name": "Emmeline Pankhurst",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "simone-de-beauvoir",
+      "name": "Simone de Beauvoir",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mary-wollstonecraft",
+      "name": "Mary Wollstonecraft",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "harriet-tubman",
+      "name": "Harriet Tubman",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sojourner-truth",
+      "name": "Sojourner Truth",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nelson-rockefeller",
+      "name": "Nelson Rockefeller",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-rockefeller",
+      "name": "John Rockefeller",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "andrew-carnegie",
+      "name": "Andrew Carnegie",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "j-p-morgan",
+      "name": "J P Morgan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "henry-ford",
+      "name": "Henry Ford",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cornelius-vanderbilt",
+      "name": "Cornelius Vanderbilt",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "howard-hughes",
+      "name": "Howard Hughes",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "walt-disney",
+      "name": "Walt Disney",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "steve-jobs",
+      "name": "Steve Jobs",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bill-gates",
+      "name": "Bill Gates",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "warren-buffett",
+      "name": "Warren Buffett",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jeff-bezos",
+      "name": "Jeff Bezos",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mark-zuckerberg",
+      "name": "Mark Zuckerberg",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "Z"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "larry-page",
+      "name": "Larry Page",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sergey-brin",
+      "name": "Sergey Brin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tim-berners-lee",
+      "name": "Tim Berners-Lee",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "alan-turing",
+      "name": "Alan Turing",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-von-neumann",
+      "name": "John von Neumann",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "stephen-hawking",
+      "name": "Stephen Hawking",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "richard-feynman",
+      "name": "Richard Feynman",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "carl-sagan",
+      "name": "Carl Sagan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "neil-degrasse-tyson",
+      "name": "Neil deGrasse Tyson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jane-goodall",
+      "name": "Jane Goodall",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rachel-carson",
+      "name": "Rachel Carson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "florence-nightingale",
+      "name": "Florence Nightingale",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "clara-barton",
+      "name": "Clara Barton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jonas-salk",
+      "name": "Jonas Salk",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "louis-pasteur",
+      "name": "Louis Pasteur",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "alexander-fleming",
+      "name": "Alexander Fleming",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sigmund-freud",
+      "name": "Sigmund Freud",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "carl-jung",
+      "name": "Carl Jung",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ivan-pavlov",
+      "name": "Ivan Pavlov",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "I",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "b-f-skinner",
+      "name": "B F Skinner",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "noam-chomsky",
+      "name": "Noam Chomsky",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-locke",
+      "name": "John Locke",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "thomas-hobbes",
+      "name": "Thomas Hobbes",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jean-jacques-rousseau",
+      "name": "Jean-Jacques Rousseau",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "immanuel-kant",
+      "name": "Immanuel Kant",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "I",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "friedrich-nietzsche",
+      "name": "Friedrich Nietzsche",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "karl-marx",
+      "name": "Karl Marx",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "adam-smith",
+      "name": "Adam Smith",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-maynard-keynes",
+      "name": "John Maynard Keynes",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "milton-friedman",
+      "name": "Milton Friedman",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "max-weber",
+      "name": "Max Weber",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "emile-durkheim",
+      "name": "Emile Durkheim",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "michel-foucault",
+      "name": "Michel Foucault",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jean-paul-sartre",
+      "name": "Jean-Paul Sartre",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "simone-weil",
+      "name": "Simone Weil",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hannah-arendt",
+      "name": "Hannah Arendt",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "vaclav-havel",
+      "name": "Vaclav Havel",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "lech-walesa",
+      "name": "Lech Walesa",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "pope-john-paul",
+      "name": "Pope John Paul",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "pope-francis",
+      "name": "Pope Francis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dalai-lama",
+      "name": "Dalai Lama",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mother-teresa",
+      "name": "Mother Teresa",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "elie-wiesel",
+      "name": "Elie Wiesel",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "anne-frank",
+      "name": "Anne Frank",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "oskar-schindler",
+      "name": "Oskar Schindler",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "raoul-wallenberg",
+      "name": "Raoul Wallenberg",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dietrich-bonhoeffer",
+      "name": "Dietrich Bonhoeffer",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sophie-scholl",
+      "name": "Sophie Scholl",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "claus-von-stauffenberg",
+      "name": "Claus von Stauffenberg",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "erwin-rommel",
+      "name": "Erwin Rommel",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "george-patton",
+      "name": "George Patton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "douglas-macarthur",
+      "name": "Douglas MacArthur",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "omar-bradley",
+      "name": "Omar Bradley",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bernard-montgomery",
+      "name": "Bernard Montgomery",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "georgy-zhukov",
+      "name": "Georgy Zhukov",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "Z"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "erich-von-manstein",
+      "name": "Erich von Manstein",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "heinz-guderian",
+      "name": "Heinz Guderian",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "karl-doenitz",
+      "name": "Karl Doenitz",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hermann-goring",
+      "name": "Hermann Goring",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "adolf-hitler",
+      "name": "Adolf Hitler",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "benito-mussolini",
+      "name": "Benito Mussolini",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "francisco-franco",
+      "name": "Francisco Franco",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "antonio-salazar",
+      "name": "Antonio Salazar",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tojo-hideki",
+      "name": "Tojo Hideki",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "emperor-hirohito",
+      "name": "Emperor Hirohito",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "emperor-meiji",
+      "name": "Emperor Meiji",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kublai-khan",
+      "name": "Kublai Khan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "suleiman-magnificent",
+      "name": "Suleiman Magnificent",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "akbar-emperor",
+      "name": "Akbar Emperor",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "shah-jahan",
+      "name": "Shah Jahan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ashoka-emperor",
+      "name": "Ashoka Emperor",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "chandragupta-maurya",
+      "name": "Chandragupta Maurya",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ramses-great",
+      "name": "Ramses Great",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tutankhamun-pharaoh",
+      "name": "Tutankhamun Pharaoh",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hatshepsut-pharaoh",
+      "name": "Hatshepsut Pharaoh",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nefertiti-queen",
+      "name": "Nefertiti Queen",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "Q"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "king-tut",
+      "name": "King Tut",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "darius-great",
+      "name": "Darius Great",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "xerxes-king",
+      "name": "Xerxes King",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "X",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "pericles-athens",
+      "name": "Pericles Athens",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "solon-athens",
+      "name": "Solon Athens",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hammurabi-king",
+      "name": "Hammurabi King",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nebuchadnezzar-king",
+      "name": "Nebuchadnezzar King",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sargon-akkad",
+      "name": "Sargon Akkad",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "william-conqueror",
+      "name": "William Conqueror",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "richard-lionheart",
+      "name": "Richard Lionheart",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "henry-tudor",
+      "name": "Henry Tudor",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "elizabeth-tudor",
+      "name": "Elizabeth Tudor",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mary-stuart",
+      "name": "Mary Stuart",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "james-stuart",
+      "name": "James Stuart",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "charles-stuart",
+      "name": "Charles Stuart",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "oliver-cromwell",
+      "name": "Oliver Cromwell",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "william-pitt",
+      "name": "William Pitt",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "robert-peel",
+      "name": "Robert Peel",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "benjamin-disraeli",
+      "name": "Benjamin Disraeli",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "william-gladstone",
+      "name": "William Gladstone",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "david-lloyd-george",
+      "name": "David Lloyd George",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "neville-chamberlain",
+      "name": "Neville Chamberlain",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "clement-attlee",
+      "name": "Clement Attlee",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "harold-wilson",
+      "name": "Harold Wilson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "james-callaghan",
+      "name": "James Callaghan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-major",
+      "name": "John Major",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gordon-brown",
+      "name": "Gordon Brown",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "liz-truss",
+      "name": "Liz Truss",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rishi-sunak",
+      "name": "Rishi Sunak",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jacinda-ardern",
+      "name": "Jacinda Ardern",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-key",
+      "name": "John Key",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "helen-clark",
+      "name": "Helen Clark",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "robert-menzies",
+      "name": "Robert Menzies",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "malcolm-fraser",
+      "name": "Malcolm Fraser",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "paul-keating",
+      "name": "Paul Keating",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "anthony-albanese",
+      "name": "Anthony Albanese",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "peter-dutton",
+      "name": "Peter Dutton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "brian-mulroney",
+      "name": "Brian Mulroney",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kim-campbell",
+      "name": "Kim Campbell",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "paul-martin",
+      "name": "Paul Martin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "erin-o-toole",
+      "name": "Erin O'Toole",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Politicians / Historical Figures"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
     }
   ]
 }

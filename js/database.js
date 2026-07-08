@@ -1,3 +1,7 @@
+// Loads and indexes every local person record (manifest-driven JSON files,
+// plus anything learned from a live Wikipedia lookup during play). This is
+// the database the local-first validator and the AI both read from - by far
+// most turns should never need a network call at all.
 (function(){
   const DEFAULT_OPTIONS = {
     manifestPath: "data/manifest.json",
@@ -8,12 +12,16 @@
   const normalizeName = (name) => String(name || "").trim().replace(/\s+/g, " ");
   const slug = (value) => normalizeName(value).toLowerCase();
 
+  function cleanDisplayName(name){
+    return normalizeName(name).replace(/\s+\([^)]*\)\s*$/g, "").trim();
+  }
+
   function makeId(name){
     return slug(name).replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
   }
 
   function lettersForName(name){
-    const clean = normalizeName(name);
+    const clean = cleanDisplayName(name);
     const parts = clean.split(" ").filter(Boolean);
     return {
       first: parts[0]?.[0]?.toUpperCase() || "",
@@ -30,7 +38,7 @@
         aliases: [],
         categories: ["Any Famous Person"],
         letters: lettersForName(name),
-        difficulty: 2,
+        fame: 0,
         image: null,
         wiki: null,
         description: null,
@@ -38,14 +46,14 @@
       };
     }
 
-    const name = normalizeName(entry?.name || "");
+    const name = cleanDisplayName(entry?.name || "");
     return {
       id: entry.id || makeId(name),
       name,
       aliases: Array.isArray(entry.aliases) ? entry.aliases : [],
       categories: [...new Set(["Any Famous Person", ...(entry.categories || [])])],
       letters: entry.letters || lettersForName(name),
-      difficulty: Number(entry.difficulty || 2),
+      fame: Number.isFinite(entry.fame) ? entry.fame : 0,
       image: entry.image || entry.photo || null,
       wiki: entry.wiki || entry.url || null,
       description: entry.description || entry.extract || null,
@@ -93,6 +101,10 @@
 
     async loadManifest(path = this.options.manifestPath){
       if (this.manifest) return this.manifest;
+      if(window.__NAME_GAME_EMBEDDED_DATA__ && window.__NAME_GAME_EMBEDDED_DATA__[path]){
+        this.manifest = window.__NAME_GAME_EMBEDDED_DATA__[path];
+        return this.manifest;
+      }
 
       try {
         const res = await fetch(path);
@@ -155,6 +167,14 @@
 
     async loadFile(path, key = path){
       if (this.loaded.has(key)) return true;
+      if(window.__NAME_GAME_EMBEDDED_DATA__ && window.__NAME_GAME_EMBEDDED_DATA__[path]){
+        const data = window.__NAME_GAME_EMBEDDED_DATA__[path];
+        const people = Array.isArray(data) ? data : (Array.isArray(data.people) ? data.people : []);
+        this.addPeople(people, key);
+        this.loaded.add(key);
+        this.updateStats();
+        return true;
+      }
 
       try {
         const res = await fetch(path);
@@ -179,8 +199,13 @@
 
     addPeople(list, source = "manual", options = {}){
       for (const item of list || []) {
+        const originalName = typeof item === "string" ? item : (item?.name || "");
         const rec = toRecord(item, source);
         if (!rec.name) continue;
+        const originalClean = normalizeName(originalName);
+        if(originalClean && originalClean !== rec.name){
+          rec.aliases = [...new Set([...(rec.aliases || []), originalClean])];
+        }
 
         const key = slug(rec.name);
 
@@ -191,6 +216,7 @@
           existing.image = existing.image || rec.image;
           existing.wiki = existing.wiki || rec.wiki;
           existing.description = existing.description || rec.description;
+          existing.fame = Math.max(existing.fame || 0, rec.fame || 0);
           existing.meta = {...(existing.meta || {}), ...(rec.meta || {})};
         } else {
           this.people.push(rec);
@@ -228,7 +254,15 @@
       }
     },
 
-    search({startsWith = null, category = "Any Famous Person", unusedSet = new Set(), difficulty = null, limit = 50} = {}){
+    // The core "local-first" lookup: does this exact name already exist in
+    // the local database? Used by the validator before ever touching the
+    // network - the common case for any of the 24,000+ names shipped with
+    // the game, or anything learned from an earlier Wikipedia lookup.
+    lookupByName(name){
+      return this.byName.get(slug(cleanDisplayName(name))) || null;
+    },
+
+    search({startsWith = null, category = "Any Famous Person", unusedSet = new Set(), limit = 50} = {}){
       const letter = startsWith ? String(startsWith).toUpperCase() : null;
       let pool;
 
@@ -249,20 +283,6 @@
 
       pool = pool.filter(p => !unusedSet.has(slug(p.name)));
 
-      if (difficulty === "Easy") {
-        pool = pool.filter(p => (p.difficulty || 2) <= 2);
-      }
-
-      if (difficulty === "Expert") {
-        const doubles = pool.filter(p => {
-          const first = p.letters?.first;
-          const last = p.letters?.last;
-          return first && last && first === last;
-        });
-        if (doubles.length && Math.random() < 0.45) pool = doubles;
-      }
-
-      // Shuffle a small slice to avoid always choosing from the top of alphabetized JSON.
       if (pool.length > limit) {
         const sample = [];
         const seenIndexes = new Set();
@@ -298,7 +318,7 @@
         cats.add(activeCategory);
       }
 
-      const rules = window.CATEGORY_RULES || {};
+      const rules = (window.NameGame?.Rules?.CATEGORY_RULES) || {};
       Object.entries(rules).forEach(([cat, rule]) => {
         if (!rule || !Array.isArray(rule.positive) || !rule.positive.length) return;
         const hit = rule.positive.some(term => text.includes(String(term).toLowerCase()));
@@ -321,7 +341,7 @@
         aliases: wikiData.title && wikiData.title !== clean ? [wikiData.title] : [],
         categories: this.categoriesFromWikiData(wikiData, activeCategory),
         letters: lettersForName(clean),
-        difficulty: 2,
+        fame: 0,
         image: wikiData.photo || null,
         wiki: wikiData.url || null,
         description: wikiData.description || "",
@@ -401,7 +421,10 @@
     }
   };
 
-  window.NameDatabase = Database.init();
+  window.NameGame = window.NameGame || {};
+  window.NameGame.Database = Database.init();
+  // Kept as the public debugging surface (NameDatabase.stats() etc. from the console).
+  window.NameDatabase = window.NameGame.Database;
   window.addNameGamePeople = (list, source = "console") => Database.addPeople(list, source);
   window.exportLearnedPeople = () => Database.exportLearned();
   window.clearLearnedPeople = () => Database.clearLearned();

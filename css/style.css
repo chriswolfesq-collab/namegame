@@ -8,6 +8,8 @@
   body{margin:0;font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', system-ui, sans-serif;background:radial-gradient(circle at top left,#10223c 0,#050b14 38%,#02050a 100%);color:var(--text);min-height:100vh;letter-spacing:.35px;overflow-x:hidden}
   button,input,select,textarea{font-family:Arial,sans-serif}
   button{cursor:pointer}
+  .dashboard-link{position:fixed;top:14px;left:14px;z-index:1200;display:inline-flex;align-items:center;min-height:40px;padding:0 14px;border:2px solid var(--line);border-radius:10px;background:rgba(16,26,42,.88);color:white;font-family:Arial,sans-serif;font-size:14px;font-weight:900;text-decoration:none;box-shadow:var(--shadow)}
+  .dashboard-link:hover,.dashboard-link:focus-visible{border-color:var(--blue);outline:none}
   .app{max-width:1540px;margin:0 auto;padding:18px}
   .top{display:grid;grid-template-columns:270px 1fr 390px 210px;gap:18px;align-items:stretch;margin-bottom:18px}
   .logo h1{margin:0;font-size:68px;line-height:.82;color:white;text-shadow:0 3px 0 #000,0 0 16px rgba(255,255,255,.18)}

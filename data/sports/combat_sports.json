@@ -50,6 +50,5191 @@
       "difficulty": 2,
       "image": null,
       "wiki": null
+    },
+    {
+      "id": "mike-tyson",
+      "name": "Mike Tyson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "manny-pacquiao",
+      "name": "Manny Pacquiao",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sugar-ray-robinson",
+      "name": "Sugar Ray Robinson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sugar-ray-leonard",
+      "name": "Sugar Ray Leonard",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "joe-frazier",
+      "name": "Joe Frazier",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "george-foreman",
+      "name": "George Foreman",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "larry-holmes",
+      "name": "Larry Holmes",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "evander-holyfield",
+      "name": "Evander Holyfield",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "lennox-lewis",
+      "name": "Lennox Lewis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rocky-marciano",
+      "name": "Rocky Marciano",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jack-dempsey",
+      "name": "Jack Dempsey",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "joe-louis",
+      "name": "Joe Louis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "roberto-duran",
+      "name": "Roberto Duran",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "marvin-hagler",
+      "name": "Marvin Hagler",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "thomas-hearns",
+      "name": "Thomas Hearns",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "oscar-de-la-hoya",
+      "name": "Oscar De La Hoya",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "julio-cesar-chavez",
+      "name": "Julio Cesar Chavez",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bernard-hopkins",
+      "name": "Bernard Hopkins",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "roy-jones",
+      "name": "Roy Jones",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "james-toney",
+      "name": "James Toney",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "pernell-whitaker",
+      "name": "Pernell Whitaker",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "riddick-bowe",
+      "name": "Riddick Bowe",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "michael-spinks",
+      "name": "Michael Spinks",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ken-norton",
+      "name": "Ken Norton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "earnie-shavers",
+      "name": "Earnie Shavers",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ingemar-johansson",
+      "name": "Ingemar Johansson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "I",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sonny-liston",
+      "name": "Sonny Liston",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gene-tunney",
+      "name": "Gene Tunney",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "max-schmeling",
+      "name": "Max Schmeling",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ezzard-charles",
+      "name": "Ezzard Charles",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "archie-moore",
+      "name": "Archie Moore",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "willie-pep",
+      "name": "Willie Pep",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "henry-armstrong",
+      "name": "Henry Armstrong",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "carlos-monzon",
+      "name": "Carlos Monzon",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "alexis-arguello",
+      "name": "Alexis Arguello",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "salvador-sanchez",
+      "name": "Salvador Sanchez",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "wilfredo-gomez",
+      "name": "Wilfredo Gomez",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "azumah-nelson",
+      "name": "Azumah Nelson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "naseem-hamed",
+      "name": "Naseem Hamed",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ricky-hatton",
+      "name": "Ricky Hatton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "amir-khan",
+      "name": "Amir Khan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "anthony-joshua",
+      "name": "Anthony Joshua",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tyson-fury",
+      "name": "Tyson Fury",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "deontay-wilder",
+      "name": "Deontay Wilder",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "wladimir-klitschko",
+      "name": "Wladimir Klitschko",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "vitali-klitschko",
+      "name": "Vitali Klitschko",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "david-haye",
+      "name": "David Haye",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "andre-ward",
+      "name": "Andre Ward",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gennady-golovkin",
+      "name": "Gennady Golovkin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "canelo-alvarez",
+      "name": "Canelo Alvarez",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "terence-crawford",
+      "name": "Terence Crawford",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "errol-spence",
+      "name": "Errol Spence",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "vasyl-lomachenko",
+      "name": "Vasyl Lomachenko",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "naoya-inoue",
+      "name": "Naoya Inoue",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "I"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "katie-taylor",
+      "name": "Katie Taylor",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "claressa-shields",
+      "name": "Claressa Shields",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "laila-ali",
+      "name": "Laila Ali",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cecilia-braekhus",
+      "name": "Cecilia Braekhus",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "georges-st-pierre",
+      "name": "Georges St-Pierre",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "anderson-silva",
+      "name": "Anderson Silva",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jon-jones",
+      "name": "Jon Jones",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "khabib-nurmagomedov",
+      "name": "Khabib Nurmagomedov",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "conor-mcgregor",
+      "name": "Conor McGregor",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "israel-adesanya",
+      "name": "Israel Adesanya",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "I",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kamaru-usman",
+      "name": "Kamaru Usman",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "U"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "charles-oliveira",
+      "name": "Charles Oliveira",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "alexander-volkanovski",
+      "name": "Alexander Volkanovski",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "islam-makhachev",
+      "name": "Islam Makhachev",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "I",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dustin-poirier",
+      "name": "Dustin Poirier",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "justin-gaethje",
+      "name": "Justin Gaethje",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "max-holloway",
+      "name": "Max Holloway",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "alex-pereira",
+      "name": "Alex Pereira",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "leon-edwards",
+      "name": "Leon Edwards",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sean-strickland",
+      "name": "Sean Strickland",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dricus-du-plessis",
+      "name": "Dricus du Plessis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "colby-covington",
+      "name": "Colby Covington",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jorge-masvidal",
+      "name": "Jorge Masvidal",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nate-diaz",
+      "name": "Nate Diaz",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nick-diaz",
+      "name": "Nick Diaz",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bj-penn",
+      "name": "BJ Penn",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "matt-hughes",
+      "name": "Matt Hughes",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "randy-couture",
+      "name": "Randy Couture",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "chuck-liddell",
+      "name": "Chuck Liddell",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tito-ortiz",
+      "name": "Tito Ortiz",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "frank-mir",
+      "name": "Frank Mir",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "brock-lesnar",
+      "name": "Brock Lesnar",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cain-velasquez",
+      "name": "Cain Velasquez",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "fabricio-werdum",
+      "name": "Fabricio Werdum",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "junior-dos-santos",
+      "name": "Junior dos Santos",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "stipe-miocic",
+      "name": "Stipe Miocic",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "daniel-cormier",
+      "name": "Daniel Cormier",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jan-blachowicz",
+      "name": "Jan Blachowicz",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "glover-teixeira",
+      "name": "Glover Teixeira",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "demetrious-johnson",
+      "name": "Demetrious Johnson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "henry-cejudo",
+      "name": "Henry Cejudo",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dominick-cruz",
+      "name": "Dominick Cruz",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tj-dillashaw",
+      "name": "TJ Dillashaw",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cody-garbrandt",
+      "name": "Cody Garbrandt",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "aljamain-sterling",
+      "name": "Aljamain Sterling",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sean-o-malley",
+      "name": "Sean O'Malley",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "petr-yan",
+      "name": "Petr Yan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "Y"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jose-aldo",
+      "name": "Jose Aldo",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "frankie-edgar",
+      "name": "Frankie Edgar",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gilbert-melendez",
+      "name": "Gilbert Melendez",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "anthony-pettis",
+      "name": "Anthony Pettis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rafael-dos-anjos",
+      "name": "Rafael dos Anjos",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tony-ferguson",
+      "name": "Tony Ferguson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kevin-lee",
+      "name": "Kevin Lee",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "amanda-nunes",
+      "name": "Amanda Nunes",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ronda-rousey",
+      "name": "Ronda Rousey",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "miesha-tate",
+      "name": "Miesha Tate",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "holly-holm",
+      "name": "Holly Holm",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cris-cyborg",
+      "name": "Cris Cyborg",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "valentina-shevchenko",
+      "name": "Valentina Shevchenko",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "zhang-weili",
+      "name": "Zhang Weili",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "Z",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rose-namajunas",
+      "name": "Rose Namajunas",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "joanna-jedrzejczyk",
+      "name": "Joanna Jedrzejczyk",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "carla-esparza",
+      "name": "Carla Esparza",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "antonio-rodrigo-nogueira",
+      "name": "Antonio Rodrigo Nogueira",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "wanderlei-silva",
+      "name": "Wanderlei Silva",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mauricio-rua",
+      "name": "Mauricio Rua",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "vitor-belfort",
+      "name": "Vitor Belfort",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rich-franklin",
+      "name": "Rich Franklin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hulk-hogan",
+      "name": "Hulk Hogan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "andre-the-giant",
+      "name": "Andre the Giant",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ric-flair",
+      "name": "Ric Flair",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "stone-cold-steve-austin",
+      "name": "Stone Cold Steve Austin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "the-rock-johnson",
+      "name": "The Rock Johnson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "undertaker-calaway",
+      "name": "Undertaker Calaway",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "U",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "shawn-michaels",
+      "name": "Shawn Michaels",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bret-hart",
+      "name": "Bret Hart",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "randy-savage",
+      "name": "Randy Savage",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "triple-h",
+      "name": "Triple H",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "roman-reigns",
+      "name": "Roman Reigns",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "seth-rollins",
+      "name": "Seth Rollins",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kurt-angle",
+      "name": "Kurt Angle",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "chris-jericho",
+      "name": "Chris Jericho",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rey-mysterio",
+      "name": "Rey Mysterio",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "eddie-guerrero",
+      "name": "Eddie Guerrero",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "edge-copeland",
+      "name": "Edge Copeland",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "batista-bautista",
+      "name": "Batista Bautista",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "big-show-wight",
+      "name": "Big Show Wight",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kane-jacobs",
+      "name": "Kane Jacobs",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mick-foley",
+      "name": "Mick Foley",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jeff-hardy",
+      "name": "Jeff Hardy",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "matt-hardy",
+      "name": "Matt Hardy",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "christian-cage",
+      "name": "Christian Cage",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rob-van-dam",
+      "name": "Rob Van Dam",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jerry-lawler",
+      "name": "Jerry Lawler",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sting-borden",
+      "name": "Sting Borden",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kevin-nash",
+      "name": "Kevin Nash",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "scott-hall",
+      "name": "Scott Hall",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "diamond-dallas-page",
+      "name": "Diamond Dallas Page",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "goldberg-bill",
+      "name": "Goldberg Bill",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "booker-t",
+      "name": "Booker T",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rikishi-fatu",
+      "name": "Rikishi Fatu",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "yokozuna-fatu",
+      "name": "Yokozuna Fatu",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "Y",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "big-van-vader",
+      "name": "Big Van Vader",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bam-bam-bigelow",
+      "name": "Bam Bam Bigelow",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ultimate-warrior",
+      "name": "Ultimate Warrior",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "U",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jake-roberts",
+      "name": "Jake Roberts",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bob-backlund",
+      "name": "Bob Backlund",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bruno-sammartino",
+      "name": "Bruno Sammartino",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "pedro-morales",
+      "name": "Pedro Morales",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "superstar-graham",
+      "name": "Superstar Graham",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sgt-slaughter",
+      "name": "Sgt Slaughter",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "iron-sheik-vaziri",
+      "name": "Iron Sheik Vaziri",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "I",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nikolai-volkoff",
+      "name": "Nikolai Volkoff",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "greg-valentine",
+      "name": "Greg Valentine",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "don-muraco",
+      "name": "Don Muraco",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tito-santana",
+      "name": "Tito Santana",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jimmy-snuka",
+      "name": "Jimmy Snuka",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "george-steele",
+      "name": "George Steele",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "junkyard-dog",
+      "name": "Junkyard Dog",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "koko-b-ware",
+      "name": "Koko B Ware",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "honky-tonk-man",
+      "name": "Honky Tonk Man",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "million-dollar-man",
+      "name": "Million Dollar Man",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ted-dibiase",
+      "name": "Ted DiBiase",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "big-boss-man",
+      "name": "Big Boss Man",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "akeem-layfield",
+      "name": "Akeem Layfield",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rick-rude",
+      "name": "Rick Rude",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "curt-hennig",
+      "name": "Curt Hennig",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "owen-hart",
+      "name": "Owen Hart",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jim-neidhart",
+      "name": "Jim Neidhart",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "british-bulldog-smith",
+      "name": "British Bulldog Smith",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "diesel-nash",
+      "name": "Diesel Nash",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "razor-ramon",
+      "name": "Razor Ramon",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "vader-guerrero",
+      "name": "Vader Guerrero",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "yokozuna-big",
+      "name": "Yokozuna Big",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "Y",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "lex-luger",
+      "name": "Lex Luger",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sid-vicious",
+      "name": "Sid Vicious",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kevin-sullivan",
+      "name": "Kevin Sullivan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dusty-rhodes",
+      "name": "Dusty Rhodes",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "harley-race",
+      "name": "Harley Race",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nick-bockwinkel",
+      "name": "Nick Bockwinkel",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "verne-gagne",
+      "name": "Verne Gagne",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "V",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "lou-thesz",
+      "name": "Lou Thesz",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gorgeous-george",
+      "name": "Gorgeous George",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "antonio-inoki",
+      "name": "Antonio Inoki",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "I"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "giant-baba",
+      "name": "Giant Baba",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jushin-liger",
+      "name": "Jushin Liger",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mitsuharu-misawa",
+      "name": "Mitsuharu Misawa",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kenta-kobashi",
+      "name": "Kenta Kobashi",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kenny-omega",
+      "name": "Kenny Omega",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kazuchika-okada",
+      "name": "Kazuchika Okada",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hiroshi-tanahashi",
+      "name": "Hiroshi Tanahashi",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cody-rhodes",
+      "name": "Cody Rhodes",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dustin-rhodes",
+      "name": "Dustin Rhodes",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "matt-riddle",
+      "name": "Matt Riddle",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "aj-styles",
+      "name": "AJ Styles",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "finn-balor",
+      "name": "Finn Balor",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "samoa-joe",
+      "name": "Samoa Joe",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kevin-owens",
+      "name": "Kevin Owens",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sami-zayn",
+      "name": "Sami Zayn",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "Z"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bobby-lashley",
+      "name": "Bobby Lashley",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "drew-mcintyre",
+      "name": "Drew McIntyre",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sheamus-o-shaunessy",
+      "name": "Sheamus O'Shaunessy",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "randy-orton",
+      "name": "Randy Orton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rey-fenix",
+      "name": "Rey Fenix",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "pentagon-jr",
+      "name": "Pentagon Jr",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "will-ospreay",
+      "name": "Will Ospreay",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "W",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "adam-cole",
+      "name": "Adam Cole",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bryan-danielson",
+      "name": "Bryan Danielson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "chris-hero",
+      "name": "Chris Hero",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "claudio-castagnoli",
+      "name": "Claudio Castagnoli",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jon-moxley",
+      "name": "Jon Moxley",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mjf-friedman",
+      "name": "MJF Friedman",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "darby-allin",
+      "name": "Darby Allin",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "A"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "katsuyori-shibata",
+      "name": "Katsuyori Shibata",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tomohiro-ishii",
+      "name": "Tomohiro Ishii",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "I"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "zack-sabre-jr",
+      "name": "Zack Sabre Jr",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "Z",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "shingo-takagi",
+      "name": "Shingo Takagi",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hiromu-takahashi",
+      "name": "Hiromu Takahashi",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "oleksandr-usyk",
+      "name": "Oleksandr Usyk",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "U"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "devin-haney",
+      "name": "Devin Haney",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "H"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ryan-garcia",
+      "name": "Ryan Garcia",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "gervonta-davis",
+      "name": "Gervonta Davis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "shakur-stevenson",
+      "name": "Shakur Stevenson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "david-benavidez",
+      "name": "David Benavidez",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jermall-charlo",
+      "name": "Jermall Charlo",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jermell-charlo",
+      "name": "Jermell Charlo",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "caleb-plant",
+      "name": "Caleb Plant",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jersey-joe-walcott",
+      "name": "Jersey Joe Walcott",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jimmy-braddock",
+      "name": "Jimmy Braddock",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "max-baer",
+      "name": "Max Baer",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tommy-loughran",
+      "name": "Tommy Loughran",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "primo-carnera",
+      "name": "Primo Carnera",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "floyd-patterson",
+      "name": "Floyd Patterson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "cassius-clay",
+      "name": "Cassius Clay",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "leon-spinks",
+      "name": "Leon Spinks",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "buster-douglas",
+      "name": "Buster Douglas",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "michael-moorer",
+      "name": "Michael Moorer",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "chris-byrd",
+      "name": "Chris Byrd",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "hasim-rahman",
+      "name": "Hasim Rahman",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "john-ruiz",
+      "name": "John Ruiz",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nikolai-valuev",
+      "name": "Nikolai Valuev",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ruslan-chagaev",
+      "name": "Ruslan Chagaev",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "sergei-kovalev",
+      "name": "Sergei Kovalev",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "artur-beterbiev",
+      "name": "Artur Beterbiev",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "dmitry-bivol",
+      "name": "Dmitry Bivol",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "joshua-buatsi",
+      "name": "Joshua Buatsi",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "anthony-yarde",
+      "name": "Anthony Yarde",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "Y"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "callum-smith",
+      "name": "Callum Smith",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "josh-taylor",
+      "name": "Josh Taylor",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jose-ramirez",
+      "name": "Jose Ramirez",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "regis-prograis",
+      "name": "Regis Prograis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "jaron-ennis",
+      "name": "Jaron Ennis",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "keith-thurman",
+      "name": "Keith Thurman",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "danny-garcia",
+      "name": "Danny Garcia",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "adrien-broner",
+      "name": "Adrien Broner",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mikey-garcia",
+      "name": "Mikey Garcia",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "leo-santa-cruz",
+      "name": "Leo Santa Cruz",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "abner-mares",
+      "name": "Abner Mares",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "A",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nonito-donaire",
+      "name": "Nonito Donaire",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "guillermo-rigondeaux",
+      "name": "Guillermo Rigondeaux",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "carl-frampton",
+      "name": "Carl Frampton",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "scott-quigg",
+      "name": "Scott Quigg",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "Q"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "lee-selby",
+      "name": "Lee Selby",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "josh-warrington",
+      "name": "Josh Warrington",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "george-kambosos",
+      "name": "George Kambosos",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "teofimo-lopez",
+      "name": "Teofimo Lopez",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "L"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "oscar-valdez",
+      "name": "Oscar Valdez",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "O",
+        "last": "V"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "emanuel-navarrete",
+      "name": "Emanuel Navarrete",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "E",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "luis-nery",
+      "name": "Luis Nery",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "roman-gonzalez",
+      "name": "Roman Gonzalez",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "juan-francisco-estrada",
+      "name": "Juan Francisco Estrada",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "srisaket-sor-rungvisai",
+      "name": "Srisaket Sor Rungvisai",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "donnie-nietes",
+      "name": "Donnie Nietes",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "zolani-tete",
+      "name": "Zolani Tete",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "Z",
+        "last": "T"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "frampton-carl",
+      "name": "Frampton Carl",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "F",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "josh-kelly",
+      "name": "Josh Kelly",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "K"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "conor-benn",
+      "name": "Conor Benn",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "chris-eubank",
+      "name": "Chris Eubank",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "E"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "chris-eubank-jr",
+      "name": "Chris Eubank Jr",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "nigel-benn",
+      "name": "Nigel Benn",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "N",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "michael-watson",
+      "name": "Michael Watson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "ricky-burns",
+      "name": "Ricky Burns",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kell-brook",
+      "name": "Kell Brook",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "tony-bellew",
+      "name": "Tony Bellew",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "T",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "george-groves",
+      "name": "George Groves",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "G",
+        "last": "G"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "james-degale",
+      "name": "James DeGale",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "carl-froch",
+      "name": "Carl Froch",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "C",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "joe-calzaghe",
+      "name": "Joe Calzaghe",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "junior-witter",
+      "name": "Junior Witter",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kevin-mitchell",
+      "name": "Kevin Mitchell",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Combat Sports"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
     }
   ]
 }
