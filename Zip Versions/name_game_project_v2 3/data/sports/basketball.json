@@ -1,0 +1,157 @@
+{
+  "people": [
+    {
+      "id": "michael-jordan",
+      "name": "Michael Jordan",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "lebron-james",
+      "name": "LeBron James",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kobe-bryant",
+      "name": "Kobe Bryant",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "stephen-curry",
+      "name": "Stephen Curry",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "C"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "kevin-durant",
+      "name": "Kevin Durant",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "K",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "shaquille-oneal",
+      "name": "Shaquille ONeal",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "O"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "larry-bird",
+      "name": "Larry Bird",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "magic-johnson",
+      "name": "Magic Johnson",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bill-russell",
+      "name": "Bill Russell",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Basketball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "R"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    }
+  ]
+}

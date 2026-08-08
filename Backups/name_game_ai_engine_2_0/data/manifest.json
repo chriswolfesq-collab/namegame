@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "key": "people",
+      "path": "data/people.json",
+      "label": "Starter People"
+    },
+    {
+      "key": "baseball",
+      "path": "data/sports/baseball.json",
+      "label": "Baseball"
+    },
+    {
+      "key": "football",
+      "path": "data/sports/football.json",
+      "label": "Football"
+    },
+    {
+      "key": "basketball",
+      "path": "data/sports/basketball.json",
+      "label": "Basketball"
+    },
+    {
+      "key": "hockey",
+      "path": "data/sports/hockey.json",
+      "label": "Hockey"
+    },
+    {
+      "key": "soccer",
+      "path": "data/sports/soccer.json",
+      "label": "Soccer"
+    },
+    {
+      "key": "tennis",
+      "path": "data/sports/tennis.json",
+      "label": "Tennis"
+    },
+    {
+      "key": "combat_sports",
+      "path": "data/sports/combat_sports.json",
+      "label": "Combat Sports"
+    },
+    {
+      "key": "olympics_track",
+      "path": "data/sports/olympics_track.json",
+      "label": "Olympics / Track & Field"
+    },
+    {
+      "key": "actors",
+      "path": "data/entertainment/actors.json",
+      "label": "Actors / Actresses"
+    },
+    {
+      "key": "musicians",
+      "path": "data/entertainment/musicians.json",
+      "label": "Musicians"
+    },
+    {
+      "key": "fictional",
+      "path": "data/popculture/fictional.json",
+      "label": "Fictional Characters"
+    },
+    {
+      "key": "politicians_historical",
+      "path": "data/history/politicians_historical.json",
+      "label": "Politicians / Historical Figures"
+    }
+  ]
+}

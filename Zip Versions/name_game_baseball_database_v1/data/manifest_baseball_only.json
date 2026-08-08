@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "key": "baseball",
+      "path": "data/sports/baseball.json",
+      "label": "Baseball"
+    }
+  ]
+}

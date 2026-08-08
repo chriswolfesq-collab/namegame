@@ -1,0 +1,132 @@
+{
+  "people": [
+    {
+      "id": "mickey-mouse",
+      "name": "Mickey Mouse",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "bugs-bunny",
+      "name": "Bugs Bunny",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "harry-potter",
+      "name": "Harry Potter",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "H",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "luke-skywalker",
+      "name": "Luke Skywalker",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "L",
+        "last": "S"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "peter-parker",
+      "name": "Peter Parker",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "P",
+        "last": "P"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "donald-duck",
+      "name": "Donald Duck",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "D"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "james-bond",
+      "name": "James Bond",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "J",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "xena-warrior",
+      "name": "Xena Warrior",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Fictional Characters"
+      ],
+      "letters": {
+        "first": "X",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    }
+  ]
+}

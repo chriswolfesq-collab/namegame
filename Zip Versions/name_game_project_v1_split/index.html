@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Name Game V4 - Wikipedia Validation</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="startScreen" id="startScreen">
+  <div class="card startCard">
+    <h1>NAME GAME</h1>
+    <div class="startGrid">
+      <label>Category</label>
+      <select id="startCategory">
+        <option>Any Famous Person</option>
+        <option>Actors / Actresses</option>
+        <option>Athletes</option>
+        <option>Baseball</option>
+        <option>Football</option>
+        <option>Basketball</option>
+        <option>Hockey</option>
+        <option>Soccer</option>
+        <option>Motorsports</option>
+        <option>Tennis</option>
+        <option>Golf</option>
+        <option>Combat Sports</option>
+        <option>Olympics / Track & Field</option>
+        <option>Musicians</option>
+        <option>Fictional Characters</option>
+      </select>
+      <label>Human Players</label>
+      <select id="playerCountSelect">
+        <option>1</option><option>2</option><option>3</option><option selected>4</option>
+        <option>5</option><option>6</option><option>7</option><option>8</option>
+      </select>
+      <label>AI Players</label>
+      <select id="aiCountSelect">
+        <option selected>0</option><option>1</option><option>2</option><option>3</option>
+        <option>4</option><option>5</option><option>6</option><option>7</option>
+      </select>
+      <label>AI Difficulty</label>
+<select id="aiDifficulty">
+<option>Easy</option>
+<option>Medium</option>
+<option>Hard</option>
+<option>Expert</option>
+<option selected>Random</option>
+</select>
+<div class="playerInputs" id="playerInputs"></div>
+      <button class="primary" id="launchGameBtn">START GAME</button>
+    </div>
+  </div>
+</div>
+
+<div class="app">
+  <div class="top">
+    <div class="logo"><h1>NAME<span>GAME</span></h1><div class="cat" id="categoryLabel">Any Famous Person</div></div>
+    <div class="card stats">
+      <div class="stat"><div class="label">PLAYERS</div><div class="big" id="aliveCount">0 / 0</div></div>
+      <div class="stat"><div class="label">GAME MODE</div><div class="big" id="modeLabel">SUDDEN DEATH</div></div>
+      <div class="stat"><div class="label">TURN TIMER</div><div class="timerCircle" id="timerCircle">45</div><div class="label">SEC</div></div>
+    </div>
+    <div class="card rules"><h2>SPECIAL RULES</h2><div class="ruleLine"><span class="ico">↺</span> Double Letter = Reverse</div><div class="ruleLine"><span class="ico red">30</span> Reverse Battle = 30 Seconds</div></div>
+    <div class="actions"><button id="settingsBtn">⚙<br>SETTINGS</button><button id="newBtn">↪<br>NEW GAME</button></div>
+  </div>
+
+  <div class="card turnHero">
+    <div><div class="label">CURRENT TURN</div><div class="turnName" id="heroPlayer">START GAME</div><div class="turnNeed" id="heroNeed">Needs <b>ANY</b></div><div class="heroSub" id="heroSub">Enter any valid first and last name to begin.</div></div>
+    <div class="heroTimer" id="heroTimer">45</div>
+  </div>
+
+  <div class="main">
+    <div class="sidebar">
+      <div class="card playerList"><div class="panelTitle"><span>PLAYERS</span><span>STATUS</span></div><div id="players"></div></div>
+      <div class="card directionBox" id="directionBox"><div class="label">TABLE DIRECTION</div><div class="arrow" id="dirArrow">→</div><h2 id="dirText">CLOCKWISE</h2><div class="mode" id="battleText">NORMAL PLAY</div></div>
+      
+      
+      <div class="card setup" id="setupBox"><h3>SETUP</h3><label>Category Preset</label><select id="categoryPreset"><option>Any Famous Person</option><option>Actors / Actresses</option><option>Athletes</option><option>Baseball</option><option>Football</option><option>Basketball</option><option>Hockey</option><option>Soccer</option><option>Motorsports</option><option>Tennis</option><option>Golf</option><option>Combat Sports</option><option>Olympics / Track & Field</option><option>Musicians</option><option>Fictional Characters</option><option>Politicians / Historical Figures</option><option>Custom</option></select><input class="selectCustom hidden" id="categoryInput" value="Any Famous Person"><label>Players, one per line</label><textarea id="namesInput" class="namesBox">Bob
+Chris
+Jen
+Mike
+Sarah</textarea><div class="grid2"><div><label>Game Mode</label><div style="padding:11px;background:#06101d;border:1px solid #23334a;border-radius:8px;color:white;font-family:Arial,sans-serif;font-weight:900">Sudden Death (1 Strike)</div></div><div><label>Normal Time</label><select id="normalTime"><option>30</option><option selected>45</option><option>60</option><option>90</option></select></div></div><label><input type="checkbox" id="autoValidate" checked> Auto Validate With Wikipedia</label><button class="primary" style="width:100%;margin-top:16px" id="startBtn">START GAME</button></div>
+    </div>
+
+    <div class="card game">
+      <div class="tableHeader"><span>TURN</span><span>PLAYER</span><span>NAME</span><span>VALIDATION</span><span>RESULT</span><span>TIMER</span></div>
+      <div class="log" id="log"></div>
+      <div class="inputArea">
+        <input id="answerInput" placeholder="Enter a famous person or character..." autocomplete="off" />
+        <button class="primary" id="submitBtn">SUBMIT</button>
+        <button class="challenge" id="challengeBtn">CHALLENGE</button>
+        <button class="pass" id="skipBtn">STRIKE</button>
+        <button class="miss" id="pauseBtn">PAUSE</button>
+      </div>
+      <div class="footerNote">The game checks name format, required starting letter, repeats, direction, strikes, elimination, and Reverse Battle timing. Category validity is checked automatically with Wikipedia when a category is selected. The Challenge button remains available for player disputes.</div>
+    </div>
+  </div>
+</div>
+
+<div class="modal hidden" id="challengeModal"><div class="card modalBox"><h2>Challenge</h2><p>Pause the timer while players decide whether the last answer was valid.</p><p id="challengeName"></p><button class="primary" id="acceptChallenge">ACCEPT NAME</button><button class="smallBtn danger" style="padding:12px 16px;margin-left:8px" id="rejectChallenge">REJECT NAME</button><button class="smallBtn" style="padding:12px 16px;margin-left:8px" id="cancelChallenge">CANCEL</button></div></div>
+<div class="modal hidden" id="winnerModal"><div class="card modalBox"><h2 id="winnerTitle">Winner!</h2><p id="winnerMsg"></p><div class="statsList" id="endStats"></div><br><button class="primary" id="closeWinner">KEEP VIEWING</button><button class="smallBtn" style="padding:12px 16px;margin-left:8px" id="winnerNew">NEW GAME</button></div></div>
+<div class="toast hidden" id="toast"><div class="toastInner" id="toastInner">REVERSE<span class="toastSmall" id="toastSmall">Direction changed</span></div></div>
+
+
+<audio id="sfxNameSubmitted" preload="auto">
+  <source src="audio/namesubmitted.mp3" type="audio/mpeg">
+</audio>
+<audio id="sfxReverse" preload="auto">
+  <source src="audio/reverse.mp3" type="audio/mpeg">
+</audio>
+<audio id="sfxYourTurn" preload="auto">
+  <source src="audio/yourturn.mp3" type="audio/mpeg">
+</audio>
+
+
+<audio id="sfxTenSeconds" preload="auto">
+  <source src="audio/10secondsremaining.mp3" type="audio/mpeg">
+</audio>
+
+
+<div class="reverseBattleOverlay" id="reverseBattleOverlay">
+  <div class="reverseBattleBox">
+    <div class="reverseBattleTitle">⚔ REVERSE BATTLE ⚔</div>
+    <div class="reverseBattleNames" id="reverseBattleNames">PLAYER ↔ PLAYER</div>
+    <div class="reverseBattleSub">30 SECOND SHOWDOWN</div>
+  </div>
+</div>
+
+
+<script src="js/game.js"></script>
+</body>
+</html>

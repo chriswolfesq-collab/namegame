@@ -1,0 +1,55 @@
+{
+  "people": [
+    {
+      "id": "serena-williams",
+      "name": "Serena Williams",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Tennis"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "roger-federer",
+      "name": "Roger Federer",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Tennis"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "F"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "rafael-nadal",
+      "name": "Rafael Nadal",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Tennis"
+      ],
+      "letters": {
+        "first": "R",
+        "last": "N"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    }
+  ]
+}

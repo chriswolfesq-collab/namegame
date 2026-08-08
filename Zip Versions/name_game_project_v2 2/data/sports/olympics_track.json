@@ -1,0 +1,55 @@
+{
+  "people": [
+    {
+      "id": "simone-biles",
+      "name": "Simone Biles",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Olympics / Track & Field"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "usain-bolt",
+      "name": "Usain Bolt",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Olympics / Track & Field"
+      ],
+      "letters": {
+        "first": "U",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "serena-williams",
+      "name": "Serena Williams",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Olympics / Track & Field"
+      ],
+      "letters": {
+        "first": "S",
+        "last": "W"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    }
+  ]
+}

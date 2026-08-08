@@ -1,0 +1,89 @@
+{
+  "people": [
+    {
+      "id": "barry-bonds",
+      "name": "Barry Bonds",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Baseball"
+      ],
+      "letters": {
+        "first": "B",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "derek-jeter",
+      "name": "Derek Jeter",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Baseball"
+      ],
+      "letters": {
+        "first": "D",
+        "last": "J"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "mickey-mantle",
+      "name": "Mickey Mantle",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Baseball"
+      ],
+      "letters": {
+        "first": "M",
+        "last": "M"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "yogi-berra",
+      "name": "Yogi Berra",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Baseball"
+      ],
+      "letters": {
+        "first": "Y",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    },
+    {
+      "id": "xander-bogaerts",
+      "name": "Xander Bogaerts",
+      "aliases": [],
+      "categories": [
+        "Any Famous Person",
+        "Athletes",
+        "Baseball"
+      ],
+      "letters": {
+        "first": "X",
+        "last": "B"
+      },
+      "difficulty": 2,
+      "image": null,
+      "wiki": null
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "input_rows_excluding_header": 21872,
+  "players_exported": 20499,
+  "skipped_rows": 1373,
+  "duplicates_removed": 0,
+  "with_photos": 14911,
+  "with_wikipedia_urls": 20499,
+  "with_descriptions": 7471,
+  "first_letter_counts": {
+    "A": 1012,
+    "B": 2044,
+    "C": 1450,
+    "D": 1480,
+    "E": 858,
+    "F": 649,
+    "G": 850,
+    "H": 762,
+    "I": 101,
+    "J": 3261,
+    "K": 524,
+    "L": 754,
+    "M": 1293,
+    "N": 288,
+    "O": 186,
+    "P": 649,
+    "Q": 6,
+    "R": 1398,
+    "S": 933,
+    "T": 1120,
+    "U": 9,
+    "V": 144,
+    "W": 496,
+    "X": 10,
+    "Y": 105,
+    "Z": 82,
+    "Á": 25,
+    "É": 5,
+    "Ó": 5
+  },
+  "last_letter_counts": {
+    "(": 4058,
+    "1": 20,
+    "9": 1,
+    "A": 512,
+    "B": 1631,
+    "C": 1253,
+    "D": 753,
+    "E": 312,
+    "F": 571,
+    "G": 880,
+    "H": 1089,
+    "I": 71,
+    "J": 357,
+    "K": 656,
+    "L": 772,
+    "M": 1585,
+    "N": 310,
+    "O": 339,
+    "P": 992,
+    "Q": 39,
+    "R": 895,
+    "S": 1571,
+    "T": 535,
+    "U": 61,
+    "V": 237,
+    "W": 784,
+    "Y": 108,
+    "Z": 93,
+    "Á": 14
+  },
+  "skipped_sample": [
+    {
+      "name": "2007 Baseball Hall of Fame balloting",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Aaron Boone",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Aaron Hill (baseball)",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Aaron Looper",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Aaron Rakers",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Aaron Rowand",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Aaron Ward (baseball)",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Adam Eaton (pitcher)",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Adam Everett",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Adam Lind",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Adam Shabala",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Adrian Devine",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Adrián Hernández (baseball, born 1975)",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Akihiro Yano",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Al Kaline",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Al Leiter",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Al Oliver",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Al Simmons",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Al Weis",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Albie Lopez",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Alejandro Peña",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Alex Gonzalez (shortstop, born 1973)",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Allan Anderson (baseball)",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Allan Lewis (baseball)",
+      "reason": "non-player page"
+    },
+    {
+      "name": "Allan Ramirez",
+      "reason": "non-player page"
+    }
+  ],
+  "duplicates_sample": []
+}
